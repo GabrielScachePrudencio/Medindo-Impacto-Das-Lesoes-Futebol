@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import" position="(170.0, 149.0)" />
+		<node id="1" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(407.0, 139.0)" />
+		<node id="2" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data" position="(675.0, 193.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'AbsPath', 'path': 'C:/Users/Flavio/Desktop/Faculdade/ativMario/Projeto Lesoes/Databases/preparacao/comTarget_semNulo_player_injuries_impact.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 18, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'AbsPath', 'path': 'C:/Users/Flavio/Desktop/Faculdade/ativMario/Projeto Lesoes/Databases/comTarget_semNulo_player_injuries_impact.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 18, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': 'C:/Users/Flavio/Desktop/Faculdade/ativMario/Projeto Lesoes/Databases/preparacao', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01g\x00\x00\x04M\x00\x00\x02\xd2\x00\x00\x036\x00\x00\x01\x86\x00\x00\x04L\x00\x00\x02\xd1\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x036\x00\x00\x01\x86\x00\x00\x04L\x00\x00\x02\xd1', '__version__': 3}</properties>
+		<properties node_id="1" format="pickle">gASV4gMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAoAAAAEd
+AAAFAQAAAxwAAAKBAAABPAAABQAAAAMbAAAAAAAAAAAHgAAAAoEAAAE8AAAFAAAAAxuUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwXTWF0Y2gxX2JlZm9yZV9pbmp1cnlfR0SUSwGGlIwJYXZhaWxhYmxl
+lEsAhpSMF01hdGNoMl9iZWZvcmVfaW5qdXJ5X0dElEsBhpRoFUsBhpSMF01hdGNoM19iZWZvcmVf
+aW5qdXJ5X0dElEsBhpRoFUsChpSMFk1hdGNoMV9taXNzZWRfbWF0Y2hfR0SUSwGGlGgVSwOGlIwW
+TWF0Y2gyX21pc3NlZF9tYXRjaF9HRJRLAYaUaBVLBIaUjBZNYXRjaDNfbWlzc2VkX21hdGNoX0dE
+lEsBhpRoFUsFhpSMDU1lZGlhX2R1cmFudGWUSwGGlGgVSwaGlIwLTWVkaWFfYW50ZXOUSwGGlGgV
+SweGlIwIUG9zaXRpb26USwGGlIwJYXR0cmlidXRllEsAhpSMA0FnZZRLAoaUaC5LAYaUjAtGSUZB
+IHJhdGluZ5RLAoaUaC5LAoaUjCJNYXRjaDFfYmVmb3JlX2luanVyeV9QbGF5ZXJfcmF0aW5nlEsB
+hpRoLksDhpSMIk1hdGNoMl9iZWZvcmVfaW5qdXJ5X1BsYXllcl9yYXRpbmeUSwGGlGguSwSGlIwi
+TWF0Y2gzX2JlZm9yZV9pbmp1cnlfUGxheWVyX3JhdGluZ5RLAYaUaC5LBYaUjAlJbXBhY3RfR0SU
+SwGGlGguSwaGlIwORGF0ZSBvZiBJbmp1cnmUSwOGlIwEbWV0YZRLAIaUjAZJbmp1cnmUSwOGlGhE
+SwGGlIwORGF0ZSBvZiByZXR1cm6USwOGlGhESwKGlHVK/v///4aUaAdLAXWMCmF0dHJpYnV0ZXOU
+fZQoaBNLAWgXSwFoGksBaB1LAWggSwFoI0sBaCxLAWgwSwJoM0sCaDZLAWg5SwFoPEsBaClLAWgm
+SwFoP0sBdYwFbWV0YXOUfZQoaEJLA2hGSwNoSUsDdXViYXUu
+</properties>
+		<properties node_id="2" format="literal">{'add_type_annotations': False, 'auto_save': False, 'controlAreaVisible': True, 'filter': 'Comma-separated values (*.csv)', 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03N\x00\x00\x01\xc2\x00\x00\x04\xed\x00\x00\x02x\x00\x00\x03O\x00\x00\x01\xe1\x00\x00\x04\xec\x00\x00\x02w\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03O\x00\x00\x01\xe1\x00\x00\x04\xec\x00\x00\x02w', 'stored_name': 'TargetFeito_semnulos_player_injuries_impact.csv', 'stored_path': 'C:/Users/Flavio/Desktop/Faculdade/ativMario/Projeto Lesoes/Databases', '__version__': 3}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

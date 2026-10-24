@@ -1,0 +1,612 @@
+Date of Injury,Injury,Date of return,Position,Age,FIFA rating,Match1_before_injury_Player_rating,Match2_before_injury_Player_rating,Match3_before_injury_Player_rating,Impact_GD
+"Nov 9, 2019",Knee injury,"Jan 13, 2020",Center Back,26,77,7.4,6.1,5.8,"-0,666666666666667"
+"Oct 20, 2019",Knee injury,"Nov 24, 2019",Center Back,28,79,5.8,7.5,6.1,"2,33333333333333"
+"Jan 2, 2020",Hamstring strain,"Jan 17, 2020",Center Back,28,79,4.9,7.7,5.6,"2,33333333333333"
+"Jul 16, 2020",Shoulder injury,"Sep 28, 2020",Center Back,28,79,5.2,6.3,6.3,"1,66666666666667"
+"Dec 22, 2019",Groin injury,"Jan 10, 2020",Center Back,28,75,5.8,6,6.2,-3
+"Dec 9, 2019",Calf injury,"Jan 10, 2020",Center Back,30,75,6,6.4,6.4,-2
+"Feb 16, 2020",Ankle injury,"Sep 14, 2020",Center Back,30,75,6.3,7,5.6,"1,33333333333333"
+"Sep 22, 2019",Knee injury,"Oct 5, 2019",Left Back,26,77,6.7,6.5,6.3,"-4,33333333333333"
+"Dec 15, 2019",Knee injury,"Dec 25, 2019",Left Back,26,77,6,5.8,6.2,1
+"Jan 18, 2020",Cruciate ligament tear,"Sep 20, 2020",Left Back,26,77,5.8,6.3,6.1,"-0,666666666666667"
+"Nov 27, 2019",Hip injury,"Dec 10, 2019",Right Back,26,74,5.6,7.3,5.6,1
+"Jan 5, 2020",Hand injury,"Jan 23, 2020",Right Back,26,74,5.9,5.7,5.7,"2,66666666666667"
+"Jan 21, 2020",Ankle injury,"Jun 20, 2020",Right Back,25,75,6.6,5.7,N.A.,"-2,16666666666667"
+"Jul 21, 2020",Ankle injury,"Sep 11, 2020",Right Back,25,75,6(S),6.1,6.6,-1
+"Jan 2, 2020",Hamstring strain,"Feb 28, 2020",Right Back,26,75,6.1,5.2,N.A.,"3,33333333333333"
+"Jul 5, 2020",Hamstring strain,"Jul 25, 2020",Defensive Midfielder,25,78,6.3,6.1,5.9,"-3,66666666666667"
+"Sep 1, 2019",Ankle injury,"Sep 28, 2019",Central Midfielder,22,74,6.5,6,7.1,"0,333333333333333"
+"Jul 1, 2020",Hamstring injury,"Jul 25, 2020",Central Midfielder,22,74,6(S),7,N.A.,-4
+"Sep 22, 2019",Hamstring injury,"Oct 5, 2019",Central Midfielder,28,79,5.9,6.6,N.A.,-4
+"Dec 9, 2019",Calf injury,"Dec 20, 2019",Central Midfielder,28,79,7.5,7.6,7.4,-2
+"Jan 18, 2020",Hamstring strain,"Feb 28, 2020",Central Midfielder,28,79,6,6.9,N.A.,"-0,666666666666667"
+"Aug 28, 2019",Ankle injury,"Jan 3, 2020",Right Midfielder,30,76,6,7,6.9,"-0,666666666666667"
+"Sep 22, 2019",Hamstring strain,"Sep 28, 2019",Left winger,23,79,6.5,N.A.,N.A.,"-0,333333333333333"
+"Dec 9, 2019",Hamstring injury,"Dec 20, 2019",Right winger,26,76,6.8,6.1,6.2,-2
+"Jan 2, 2020",Hamstring strain,"Jan 10, 2020",Center Forward,30,75,5.8,5.7,6.3,"1,66666666666667"
+"Oct 20, 2019",Groin injury,"Nov 1, 2019",Center Forward,31,74,6,5.7,5.7,"1,66666666666667"
+"Nov 26, 2019",Bruised ribs,"Dec 3, 2019",Center Forward,31,74,N.A.,N.A.,6.3,2
+"Jan 15, 2020",Knock,"Jun 15, 2020",Center Forward,31,74,N.A.,N.A.,5(S),"0,333333333333333"
+"Jul 6, 2020",Muscle injury,"Jul 17, 2020",Center Forward,31,74,6.4,6.4,N.A.,"-4,16666666666667"
+"Sep 28, 2020",Hip injury,"Oct 16, 2020",Center Back,27,77,6.6,5.6,6.3,"2,33333333333333"
+"Nov 22, 2020",Muscle fatigue,"Jan 17, 2021",Center Back,27,77,6.4,6.1,6.3,1
+"Jan 31, 2021",Hamstring strain,"Feb 14, 2021",Center Back,27,77,5.6,6.1,6.2,"0,333333333333333"
+"Apr 4, 2021",Foot injury,"Jun 1, 2021",Center Back,27,77,7.4,5.8,5.9,"2,66666666666667"
+"Nov 29, 2020",Virus,"Dec 25, 2020",Center Back,29,79,6.1,5.8,N.A.,"1,33333333333333"
+"Feb 7, 2021",Knee injury,"Apr 25, 2021",Center Back,29,79,7,6.5,5.4,-2
+"Jan 19, 2021",Calf injury,"Jan 29, 2021",Center Back,31,76,6.4,6.6,5.4,"0,166666666666667"
+"Feb 4, 2021",Knock,"Feb 14, 2021",Center Back,31,76,6.2,6.5,N.A.,"0,5"
+"Feb 7, 2021",Ankle injury,"Mar 10, 2021",Right Back,27,75,6.5,6.2,6.1,-2
+"Nov 25, 2020",Coronavirus,"Dec 11, 2020",Defensive Midfielder,26,78,N.A.,6.3,N.A.,4
+"Mar 20, 2021",Knee injury,"Jun 1, 2021",Defensive Midfielder,26,87,6.7,6.9,6.2,2
+"Oct 19, 2020",Groin injury,"Nov 20, 2020",Central Midfielder,29,78,5.9,7.1,6.7,0
+"Jan 4, 2021",Hamstring injury,"Jan 17, 2021",Central Midfielder,29,78,5.8,N.A.,N.A.,0
+"Sep 27, 2020",Shoulder injury,"Nov 25, 2020",Right Midfielder,31,76,6,N.A.,N.A.,0
+"Sep 21, 2020",Ankle injury,"Oct 1, 2020",Left winger,24,79,6.7,5.3,N.A.,"0,5"
+"Nov 22, 2020",Calf injury,"Jan 22, 2021",Left winger,24,79,6.2,6.1,5.9,1
+"Feb 28, 2021",Groin injury,"Apr 4, 2021",Left winger,24,79,6.1,7.4,7,"0,333333333333333"
+"Feb 28, 2021",Knee injury,"Mar 15, 2021",Right winger,27,76,6.1,5.7,6.2,"1,33333333333333"
+"Dec 31, 2020",Knee problems,"Jan 15, 2021",Left Back,23,75,N.A.,5.9,N.A.,1
+"Nov 2, 2020",Hamstring injury,"Dec 15, 2020",Left winger,27,77,5.1,5.7,5.7,0
+"Apr 1, 2021",Groin injury,"May 31, 2021",Left winger,27,77,5.8,6.4,6.1,"1,66666666666667"
+"Nov 7, 2020",Hamstring strain,"Nov 26, 2020",Center Forward,29,79,5.7,7.8,5.2,"-1,66666666666667"
+"Feb 7, 2021",Hamstring injury,"Apr 4, 2021",Center Forward,29,79,8.5,6.9,6.1,-2
+"May 8, 2021",Hamstring injury,"May 25, 2021",Center Forward,29,79,5.7,5.5,8.1,"0,666666666666667"
+"Feb 11, 2022",Ill,"Feb 16, 2022",Center Back,28,77,7,7,6.6,0
+"Mar 7, 2022",Knock,"Mar 15, 2022",Central Midfielder,25,79,6.4,7.7,6.6,-1
+"Aug 15, 2021",Calf injury,"Oct 15, 2021",Central Midfielder,30,77,7,N.A.,N.A.,"0,333333333333333"
+"Dec 17, 2021",Muscle injury,"Dec 26, 2021",Central Midfielder,30,77,7,6,7,"-2,33333333333333"
+"May 1, 2022",Calf problems,"May 25, 2022",Central Midfielder,30,77,7,6,6,"-1,66666666666667"
+"Feb 14, 2022",Ill & knock,"Mar 12, 2022",Left winger,25,79,8,9,5,"-0,333333333333333"
+"Dec 21, 2021",Coronavirus,"Dec 31, 2021",Central Midfielder,22,75,5.9,N.A.,5.4,4
+"Apr 4, 2022",Knee injury,"Apr 10, 2022",Central Midfielder,22,75,6.9,6.5,5.9,"2,33333333333333"
+"May 1, 2022",Knee injury,"May 25, 2022",Central Midfielder,22,75,6(S),6,5.1,"-1,66666666666667"
+"Apr 8, 2022",Hamstring injury,"May 9, 2022",Left winger,28,77,5.5,5.8,N.A.,"4,16666666666667"
+"Aug 30, 2021",Hamstring injury,"Oct 17, 2021",Center Forward,30,78,6.9,5.3,6.8,-1
+"Dec 27, 2021",Calf injury,"May 1, 2022",Center Forward,30,78,6(S),5.9,5.4,3
+"Feb 13, 2022",Metatarsal fracture,"May 1, 2022",Right Back,31,81,7,7.3,7.5,"-0,333333333333333"
+"May 9, 2022",Hip injury,"May 20, 2022",Center Forward,30,77,N.A.,6(S),5.6,5
+"Feb 27, 2023",concussion,"Mar 5, 2023",Center Back,31,80,6.7,6.4,5.5,"-1,33333333333333"
+"May 22, 2023",Knock,"May 31, 2023",Central Midfielder,26,80,6.4,6,6.3,"-0,333333333333333"
+"Apr 27, 2023",Outer ligament problems,"May 20, 2023",Central Midfielder,25,77,5.8,7.3,6.2,"-1,66666666666667"
+"Aug 29, 2022",Hamstring injury,"Oct 5, 2022",Left winger,26,79,7,9,7,"-0,333333333333333"
+"Oct 14, 2022",Muscle injury,"Oct 26, 2022",Left winger,26,79,6(S),N.A.,N.A.,"-3,33333333333333"
+"Apr 6, 2023",Hamstring injury,"May 5, 2023",Left winger,26,79,5,8,7,"-1,33333333333333"
+"Mar 15, 2023",Thigh problems,"Apr 15, 2023",Right winger,29,78,6.2,5.5,7.6(S),"3,33333333333333"
+"May 18, 2023",Hamstring injury,"Jun 5, 2023",Central Midfielder,23,76,6.4,7,6.5,"-1,66666666666667"
+"Aug 21, 2022",Hamstring injury,"Sep 25, 2022",Center Forward,31,79,6.8,5.1,6.9,"-0,333333333333333"
+"Aug 25, 2022",Hamstring injury,"Sep 16, 2022",Defensive Midfielder,25,81,7.8,6.8,5.8,-1
+"Feb 1, 2023",Ankle injury,"Feb 20, 2023",Defensive Midfielder,25,81,6.4,6.6,6.5,-1
+"May 23, 2023",Hand injury,"Jun 20, 2023",Goalkeeper,31,83,7,6.1,6.5,-1
+"Mar 10, 2023",Ankle injury,"Apr 1, 2023",Left winger,22,77,6.1(S),6.2(S),6.1,"2,33333333333333"
+"Sep 20, 2022",Thigh problems,"January 4, 2023",Center Forward,23,80,6.8,6.1,7.4,"2,66666666666667"
+"Dec 23, 2023",unknown injury,"Jan 1, 2024",Center Back,30,76,4.9,7.5,6.1,"-0,333333333333333"
+"Apr 27, 2024",Hamstring injury,"May 15, 2024",Center Back,32,82,7.8,5.8,5.9,"-0,5"
+"Sep 13, 2023",Hamstring injury,"Oct 15, 2023",Central Midfielder,27,82,6,6.8,6.3,"4,33333333333333"
+"Dec 16, 2023",Hamstring injury,"Dec 25, 2023",Central Midfielder,27,82,7,7,5.6,0
+"Jan 6, 2024",Groin surgery,"May 3, 2024",Central Midfielder,27,82,5.8(S),6.6,N.A.,"2,33333333333333"
+"Nov 11, 2023",Ankle injury,"Dec 8, 2023",Central Midfielder,26,77,6.5,6.5,5.9,"0,666666666666667"
+"Mar 30, 2024",Knee injury,"May 3, 2024",Right winger,30,79,6.2(S),6.3,6.3(S),"0,666666666666667"
+"Nov 24, 2023",Achilles tendon problems,"Feb 23, 2024",Central Midfielder,24,78,6(S),7(S),6.4,"0,666666666666667"
+"Apr 6, 2024",Achilles tendon problems,"May 20, 2024",Central Midfielder,24,78,6.4,6(S),6,"1,33333333333333"
+"Oct 23, 2023",Back injury,"Feb 25, 2024",Central Midfielder,18,74,6.6,6.4,5,"-2,33333333333333"
+"Sep 24, 2023",Hamstring injury,"Oct 7, 2023",Center Forward,32,82,7(S),6.7,7.3,"-0,333333333333334"
+"Nov 7, 2023",Hamstring injury,"Dec 8, 2023",Center Forward,32,82,7,7.4,5.7,"-2,33333333333333"
+"Dec 26, 2023",Calf injury,"Feb 1, 2024",Center Forward,32,82,6.2,6.4,6(S),"-0,333333333333333"
+"Feb 11, 2024",Chest injury,"Apr 15, 2024",Center Forward,32,82,6(S),5.7,N.A.,"-0,5"
+"May 6, 2024",Ill,"May 17, 2024",Center Forward,32,82,6(S),7(S),7.1,"-3,5"
+"Nov 4, 2023",Back injury,"Dec 11, 2023",Center Back,32,78,6.7,6.2,6.3,-1
+"Dec 26, 2023",Groin injury,"Jan 5, 2024",Right Back,33,85,N.A.,6.8,7,"-0,5"
+"Mar 2, 2024",Calf injury,"May 10, 2024",Right Back,33,85,6,5.2,6.2,0
+"Aug 27, 2023",Ankle injury,"Sep 15, 2023",Center Back,24,83,7.4,6.7,6.4,"-2,66666666666667"
+"Sep 28, 2023",Knee injury,"Dec 15, 2023",Center Back,24,83,7.1,8.5,N.A.,"-2,5"
+"Mar 20, 2024",Cruciate ligament surgery,"Dec 2, 2024",Center Back,24,83,4.3,6.7,6.2,1
+"Mar 25, 2024",ack injury,"May 20, 2024",Central Midfielder,18,70,5.9,6(S),6(S),1
+"May 15, 2024",Ankle injury,"May 27, 2024",Left winger,23,80,7,7,8.4,"1,33333333333333"
+"Oct 25, 2023",Groin injury,"Nov 24, 2023",Center Forward,24,83,6.9,8.7,5.4(S),"-2,33333333333333"
+"Jan 30, 2024",Groin injury,"Feb 23, 2024",Center Forward,24,83,7.8,7.1,5.7,"0,666666666666667"
+"Jan 12, 2024",Ill,"Jan 20, 2024",Right Back,21,74,N.A.,6(S),5.8,1
+"Mar 11, 2024",Ankle injury,"Apr 12, 2024",Right Back,21,74,7.5(S),5.9,6,"-0,5"
+"May 14, 2024",Ankle injury,"May 27, 2024",Right Back,21,74,7.1,6.5,6.9,"-1,83333333333333"
+"Sep 24, 2023",Foot injury,"Feb 1, 2024",Left winger,26,80,5.7(S),6.3,6,"-0,333333333333334"
+"Mar 2, 2024",Hamstring injury,"Mar 30, 2024",Left winger,26,80,6.4,5.5(S),6(S),-1
+"Feb 27, 2023",concussion,"Mar 5, 2023",Center Back,32,82,6.7,5.6,5.5,"-1,33333333333333"
+"Dec 2, 2023",Shoulder injury,"May 2, 2024",Goalkeeper,32,84,8.1,6.3,6.3,"-1,66666666666667"
+"Jun 21, 2020",Ligament stretching,"Aug 27, 2020",Goalkeeper,28,83,8.5,7.5,6.5,"3,66666666666667"
+"Nov 17, 2019",Hamstring injury,"Nov 30, 2019",Center Back,27,80,6(S),6(S),6.8,"0,666666666666667"
+"Feb 24, 2020",Arm injury,"Jun 15, 2020",Center Back,27,80,5.7,N.A.,N.A.,0
+"Jan 15, 2020",Muscle strain,"Feb 15, 2020",Center Back,27,80,5.9,6.7,N.A.,-1
+"Dec 16, 2019",Ankle injury,"Dec 30, 2019",Center Back,27,90,6.2,7.2,5.4,"0,333333333333333"
+"Dec 27, 2019",concussion,"Dec 30, 2019",Center Back,32,83,6.6,5.7,6.8,"-0,666666666666667"
+"Dec 29, 2019",Cruciate ligament tear,"Nov 8, 2020",Center Back,25,75,5.1,8.7,7.4,2
+"Feb 29, 2020",Muscle strain,"Mar 15, 2020",Center Back,28,81,7.4,7.4,6.8,"-0,666666666666667"
+"Dec 9, 2019",Shoulder injury,"Mar 14, 2020",Left Back,23,75,6.1,5.6,6.3,-1
+"Sep 13, 2020",Groin injury,"Sep 27, 2020",Left Back,23,75,7.1,N.A.,N.A.,-2
+"Jan 19, 2021",Knee injury,"Feb 16, 2021",Left Back,23,75,6.3,9.2,8,-2
+"Apr 3, 2021",Knee injury,"May 5, 2021",Left Back,23,75,7.1,6.1,6.9,"1,33333333333333"
+"Dec 6, 2019",Hamstring injury,"Jan 14, 2020",Right Back,25,81,6,6.3,5.9,"0,666666666666667"
+"Mar 3, 2020",Ankle injury,"Jul 3, 2020",Defensive Midfielder,24,83,6.2,N.A.,N.A.,-1
+"Aug 12, 2019",Back injury,"Aug 23, 2019",Defensive Midfielder,27,83,7.1,N.A.,N.A.,0
+"Dec 9, 2019",concussion,"Dec 17, 2019",Defensive Midfielder,27,83,6.9,6.1,6.3,"-3,33333333333333"
+"Jun 18, 2020",Ankle injury,"Jun 24, 2020",Defensive Midfielder,27,83,7,6.7,6,"-0,666666666666667"
+"Jun 25, 2020",Fitness,"Oct 7, 2020",Central Midfielder,21,74,N.A.,6.2,6.4,"4,66666666666667"
+"Nov 7, 2019",Torn muscle bundle,"Dec 31, 2019",Central Midfielder,23,80,6.5,6.4,6.9,"-0,333333333333333"
+"Dec 16, 2019",Ankle injury,"Dec 26, 2019",Attacking Midfielder,31,85,6.8,6.7,5.9,1
+"Dec 23, 2019",Hamstring injury,"Jan 6, 2020",Left winger,19,72,7.2,6.7,5.8,"0,666666666666667"
+"Jul 2, 2020",Muscle fatigue,"Jul 6, 2020",Right winger,25,81,7.1,5.8,N.A.,"1,5"
+"Jan 9, 2020",Hamstring injury,"Feb 24, 2020",Right winger,20,73,5.7,5.8,6(S),"-0,333333333333333"
+"Sep 2, 2019",Ankle injury,"Oct 20, 2019",Center Forward,29,85,7.1,N.A.,7.8,"-0,166666666666667"
+"Jul 19, 2020",Muscle injury,"Oct 24, 2020",Center Back,29,80,6.3,6.6,6.9,"0,666666666666667"
+"Oct 26, 2020",Hamstring injury,"Nov 3, 2020",Center Back,33,82,6.7,6.6,6.8,"1,33333333333333"
+"Dec 25, 2020",Ill,"Jan 1, 2021",Center Back,33,82,6.2,6.5,N.A.,2
+"Dec 25, 2020",Head injury,"Jan 1, 2021",Center Back,33,82,5.3,N.A.,N.A.,"-0,5"
+"Oct 16, 2020",Hamstring injury,"Dec 15, 2020",Center Back,25,74,7.3,7,5.7,"-1,66666666666667"
+"Jun 15, 2020",Ankle injury,"Dec 3, 2020",Center Back,27,75,7.1,5.8,N.A.,"2,66666666666667"
+"Jan 14, 2021",Calf injury,"Feb 8, 2021",Center Back,27,75,5.6,7,7.4,"-0,666666666666667"
+"Apr 1, 2021",Ill,"Apr 4, 2021",Defensive Midfielder,28,83,5.9,7.5,6.7,"-3,33333333333333"
+"May 6, 2021",Groin injury,"May 16, 2021",Defensive Midfielder,28,83,7.6,7.3,7.8,"1,16666666666667"
+"Jan 15, 2021",Calf injury,"Feb 1, 2021",Central Midfielder,24,80,6(S),8.4,7.2,0
+"Jan 9, 2021",Ankle injury,"Jan 17, 2021",Left winger,20,72,6(S),5.7,5.5,"-0,666666666666667"
+"Jan 28, 2021",Hip problems,"Jan 31, 2021",Right winger,19,72,7,8.3,7.9,"-1,66666666666667"
+"Dec 17, 2020",Calf injury,"Dec 28, 2020",Center Forward,32,87,5.4,6.1,6.9,0
+"Jan 18, 2021",Knock,"Feb 1, 2021",Center Forward,32,87,6.3,6.7,8,"-1,33333333333333"
+"Apr 8, 2021",malaria,"Apr 26, 2021",Center Forward,32,87,6.8,6,5.9,"1,66666666666667"
+"Apr 18, 2021",Dead leg,"May 6, 2021",Center Forward,29,84,5.7,8.8,6.2,"0,5"
+"Dec 26, 2020",Coronavirus,"Jan 13, 2021",Center Back,23,80,7,6.3,6.2,"1,66666666666667"
+"Nov 9, 2020",Muscle injury,"Dec 3, 2020",Defensive Midfielder,28,84,6.4,8.1,6.3,"0,5"
+"Dec 3, 2020",Hip injury,"Jan 11, 2021",Defensive Midfielder,28,84,6.3,N.A.,N.A.,"1,33333333333333"
+"Feb 4, 2021",Hamstring injury,"Feb 22, 2021",Defensive Midfielder,28,84,6.5,6.7,6.3,"1,16666666666667"
+"Nov 16, 2020",Virus,"Nov 28, 2020",Defensive Midfielder,28,76,6.9,6.3,N.A.,1
+"Apr 5, 2021",Ankle injury,"Apr 20, 2021",Attacking Midfielder,22,75,7.7,7.8,5.8,"2,16666666666667"
+"Nov 23, 2020",Calf injury,"Nov 28, 2020",Left winger,32,85,5.8,6.1,5.8,"-0,333333333333333"
+"Dec 25, 2020",Ill,"Jan 1, 2021",Left winger,32,85,7,7.4,6.3,"2,83333333333333"
+"Oct 21, 2021",Ankle problems,"Nov 6, 2021",Left Back,25,79,6.7,5.9,6.4,"1,33333333333333"
+"Mar 31, 2022",Knee surgery,"Jul 7, 2022",Left Back,25,79,6.6,6,6.7,-2
+"Sep 27, 2021",Inner ligament injury,"Dec 5, 2021",Defensive Midfielder,29,83,7.1,N.A.,N.A.,"-1,33333333333333"
+"Apr 14, 2022",Coronavirus,"Apr 19, 2022",Center Forward,31,84,6.2,5.7,5.4,0
+"Apr 4, 2022",Knock,"Jul 25, 2022",Defensive Midfielder,29,84,7.1,7,5.8,"1,33333333333333"
+"Apr 25, 2022",Hamstring injury,"May 15, 2022",Right Back,24,76,6.8,6.3,6.1,0
+"Feb 20, 2022",Calf injury,"Apr 21, 2022",Right Back,23,78,6.4,N.A.,N.A.,"2,33333333333333"
+"May 14, 2023",Ankle injury,"Jun 1, 2023",Left winger,22,81,5.8(S),7.3,5.5,"1,66666666666667"
+"Mar 2, 2023",Ankle injury,"Apr 13, 2023",Center Forward,24,75,7,5.5(S),6.9(S),0
+"Mar 16, 2023",Back injury,"Jul 1, 2023",Center Back,22,82,6.7,7,7.8,"-0,666666666666667"
+"Aug 25, 2022",Thigh problems,"Sep 15, 2022",Defensive Midfielder,30,85,7.6,6.6,7.2,"-2,33333333333333"
+"Aug 27, 2022",Thigh problems,"Nov 1, 2022",Defensive Midfielder,30,77,6.7,N.A.,N.A.,"-0,333333333333333"
+"Jan 14, 2023",Knee injury,"Sep 20, 2023",Defensive Midfielder,30,77,N.A.,N.A.,5.6(S),"-1,33333333333333"
+"Nov 3, 2022",muscular problems,"Nov 15, 2022",Right Back,24,79,6,7,6.5,"-0,5"
+"Mar 16, 2023",Knee surgery,"Jul 1, 2023",Right Back,24,79,N.A.,6.8,6(S),0
+"Aug 26, 2022",Knee problems and Calf injury,"Nov 1, 2022",Left Back,26,82,7.7,6.9,7,"-0,666666666666667"
+"Apr 14, 2023",unknown injury,"Apr 17, 2023",Left Back,26,82,6.5,7,6.6,-2
+"May 7, 2023",Calf muscle tear,"Aug 18, 2023",Left Back,26,82,5.6,7,6.8,0
+"Dec 2, 2022",Knee injury,"Mar 11, 2023",Center Forward,26,85,9.7,7.3,6.5,"-1,33333333333333"
+"Sep 17, 2023",Hamstring injury,"Oct 7, 2023",Left winger,23,83,7,7.2,5.7,1
+"Mar 5, 2024",Foot injury,"Mar 29, 2024",Left winger,23,83,6.4,7.4,8.2,"-3,66666666666667"
+"Mar 21, 2024",unknown injury,"Apr 6, 2024",Right winger,22,86,6.7,6.8,5.5,"-0,333333333333334"
+"Oct 3, 2023",Thigh problems,"Oct 21, 2023",Right winger,22,86,7.1,7.9,7.5,"-0,666666666666667"
+"Sep 2, 2023",Groin injury,"Oct 3, 2023",Defensive Midfielder,31,84,7.6,7.6,6.9,"0,333333333333333"
+"Nov 3, 2023",Hip problems,"Nov 22, 2023",Attacking Midfielder,25,88,8.5,6.7,6,"-1,16666666666667"
+"Nov 9, 2023",Knee injury,"Nov 20, 2023",Right Back,26,82,6.1,6.9,6.3,"0,666666666666667"
+"Dec 3, 2023",Calf injury,"Mar 20, 2024",Right Back,25,78,6.7,7.4,7.1,"-0,666666666666667"
+"Dec 30, 2023",Calf problems,"Jan 18, 2024",Left Back,27,80,7.8,6.8,6.5,-1
+"Oct 24, 2023",Hamstring injury,"Nov 19, 2023",Center Forward,27,82,6.7,6.5,5.7,"0,333333333333333"
+"Jan 5, 2024",Knee injury,"Jan 18, 2024",Center Forward,27,82,6(S),7.5,7.9,"2,66666666666667"
+"Dec 9, 2019",Muscle strain,"Dec 31, 2019",Center Back,28,75,5.3,5.7,6.8,0
+"Dec 2, 2019",Knee injury,"Dec 7, 2019",Right winger,24,75,5.8,7,6.2,-2
+"Jun 28, 2020",Muscle strain,"Jul 11, 2020",Left Back,24,75,6.3,6.6,7.1,"-1,83333333333333"
+"Dec 31, 2019",Hamstring injury,"Jan 17, 2020",Left Back,24,75,6,6.7,6.2,"-0,666666666666667"
+"Oct 27, 2019",Calf injury,"Nov 24, 2019",Left winger,24,80,5.8,9.5,8.2,"-1,66666666666667"
+"Jul 13, 2020",Hamstring injury,"Jul 25, 2020",Left Back,31,70,6.7,6.3,7.1,"2,66666666666667"
+"Nov 3, 2019",Groin injury,"Nov 30, 2019",Center Back,25,76,5.8,4.7,6.1,"1,33333333333333"
+"Jan 1, 2020",Cruciate ligament injury,"Nov 7, 2020",Goalkeeper,34,83,5.9,7.8,6.3,0
+"Nov 10, 2019",Calf strain,"Nov 25, 2019",Goalkeeper,34,83,6,7,6.3,0
+"Feb 18, 2021",Hamstring injury,"Mar 7, 0202",Right Back,24,77,6,6.7,5.5,"-0,666666666666667"
+"Dec 13, 2020",bruise,"Dec 25, 2020",Center Back,23,77,6.4,6.4,7.3,"1,83333333333333"
+"Jan 3, 2021",Ankle injury,"Apr 5, 2021",Center Back,25,74,N.A.,6.4,7.4,"-1,83333333333333"
+"Nov 2, 2020",Bruised ribs,"Nov 20, 2020",Right winger,24,76,5.2,5.6(S),N.A.,5
+"Oct 25, 2020",Hamstring injury,"Nov 25, 2020",Central Midfielder,23,76,6.1,6.5,6.2,"-0,666666666666667"
+"Dec 1, 2020",Head injury,"Jan 21, 2021",Left winger,26,75,6.4,6.3,6.8,"0,333333333333333"
+"Apr 9, 2021",Knee problems,"Aug 29, 2021",Central Midfielder,26,77,6.6,5.9,6(S),"-0,666666666666667"
+"Nov 21, 2020",Hamstring injury,"Jan 19, 2021",Central Midfielder,27,78,7.7,6.7,6.5,0
+"May 20, 2022",Knee problems,"May 29, 2022",Goalkeeper,29,84,6.6,6.3,6.8,"-0,666666666666667"
+"May 15, 2022",Knee injury,"Jul 10, 2022",Center Back,24,79,6,6.1,N.A.,"-1,16666666666667"
+"Apr 9, 2022",Shoulder injury,"Apr 25, 2022",Left Back,28,84,6.5,N.A.,6.2,1
+"Mar 14, 2022",Hamstring injury,"Mar 21, 2022",Left Back,28,84,N.A.,7.2,N.A.,-4
+"Dec 5, 2021",Thigh problems,"Feb 10, 2022",Right winger,24,81,5.8,6.1,6(S),0
+"Dec 11, 2021",Knee injury,"Mar 31, 2022",Defensive Midfielder,25,75,5.7,6.2,6.2,"0,666666666666667"
+"Apr 10, 2022",Knock,"May 8, 2022",Central Midfielder,27,76,6.6,5.9,6(S),"-0,333333333333333"
+"Oct 30, 2021",Ill,"Nov 6, 2021",Central Midfielder,27,76,6.2,N.A.,N.A.,-1
+"Dec 12, 2021",Coronavirus,"Dec 25, 2021",Central Midfielder,27,76,6(S),N.A.,N.A.,3
+"Mar 29, 2023",Calf injury,"May 3, 2023",Right Back,25,79,7.4,6.1,6.9,"0,333333333333334"
+"Sep 3, 2022",Tendon rupture,"Sep 28, 2022",Right Back,25,79,5.9,6.5,5.6,"1,83333333333333"
+"Aug 11, 2022",Achilles tendon rupture,"Mar 12, 2023",Center Back,30,82,5.6,N.A.,N.A.,1
+"Jan 1, 2023",Hamstring strain,"Feb 4, 2023",Central Midfielder,28,78,N.A.,6.1,6(S),"-0,5"
+"Jan 14, 2023",Shoulder injury,"Feb 3, 2023",Left Back,29,82,6.2,6.3,6.5,"1,5"
+"Sep 17, 2022",Ankle injury,"Oct 27, 2022",Left Back,29,82,6.6,6.2,5.9,"0,333333333333333"
+"May 20, 2023",Hamstring injury,"Sep 15, 2023",Left Back,31,80,N.A.,6.2,6,"0,5"
+"Nov 23, 2022",Hamstring injury,"Jan 8, 2023",Attacking Midfielder,22,76,5.4,7.4,5.7(S),"0,333333333333333"
+"Mar 12, 2023",Ankle injury,"Mar 18, 2023",Defensive Midfielder,23,80,6.6,6.9,7,"1,33333333333333"
+"Sep 15, 2022",Knee injury,"Oct 31, 2022",Defensive Midfielder,23,80,6.3,6,6.9,"0,333333333333333"
+"May 12, 2024",Calf injury,"Jun 12, 2024",Defensive Midfielder,26,79,6.2(S),6.7,5.5,"-2,83333333333333"
+"Mar 21, 2024",Hamstring injury,"Apr 12, 2024",Right Back,26,79,6(S),5.6,6.4,"0,666666666666667"
+"Dec 29, 2023",Ill,"Dec 31, 2023",Right Back,26,79,N.A.,7.4,6,"0,5"
+"Feb 14, 2024",Hamstring injury,"Mar 5, 2024",Center Back,31,81,6.2,7.2,N.A.,"-0,166666666666667"
+"Feb 4, 2024",Knee injury,"Mar 1, 2024",Center Back,26,80,6.8,6,6.5,"0,333333333333333"
+"Apr 27, 2024",Groin injury,"Jun 10, 2024",Central Midfielder,27,81,6.7,7.6,7.5,"-1,66666666666667"
+"Dec 13, 2023",Calf injury,"Jan 12, 2024",Central Midfielder,27,81,5.9,6.7,7.2,"-0,666666666666667"
+"Dec 26, 2023",Hamstring injury,"Feb 6, 2024",Left Back,30,79,6.4,N.A.,6.3,"-0,5"
+"Jan 5, 2024",Ankle injury,"Feb 4, 2024",Center Back,27,82,6(S),N.A.,N.A.,0
+"Dec 18, 2023",unknown injury,"Dec 23, 2023",Center Back,27,82,6.3,6.7,5.6,0
+"Apr 15, 2024",minor knock,"May 31, 2024",Left Back,31,80,N.A.,5.5(S),6.4,"0,833333333333333"
+"Oct 21, 2023",infection,"Oct 23, 2023",Center Forward,20,68,N.A.,5(S),5(S),1
+"Oct 28, 2023",infection,"Nov 6, 2023",Center Forward,20,68,N.A.,5(S),5(S),1
+"Jan 25, 2024",Hamstring injury,"Mar 8, 2024",Center Forward,20,68,N.A.,6.1(S),N.A.,"1,33333333333333"
+"May 6, 2024",Hamstring injury,"Jun 1, 2024",Attacking Midfielder,21,67,6.8,7.3,7.3,"1,16666666666667"
+"May 18, 2024",Ill,"May 31, 2024",Right winger,26,80,7,5.9,5.6,"-4,66666666666667"
+"Oct 4, 2023",Foot injury,"Nov 24, 2023",Attacking Midfielder,23,78,7.3(S),N.A.,N.A.,"-3,33333333333333"
+"Jan 13, 2024",Hamstring injury,"Jan 29, 2024",Attacking Midfielder,23,78,N.A.,6.3,5.7,-1
+"Mar 3, 2024",Toe injury,Present,Attacking Midfielder,23,78,7.2,6.2,6.4,"-1,33333333333333"
+"Feb 11, 2024",Knee injury,Present,Defensive Midfielder,24,80,6.6,5.6,7.2,"-0,333333333333333"
+"Aug 20, 2023",Hamstring injury,"Sep 25, 2023",Attacking Midfielder,32,79,5,6(S),N.A.,"2,33333333333333"
+"May 9, 2021",Ankle injury,"Jun 13, 2021",Center Back,27,80,6.7,6.8,6.6,-3
+"Sep 25, 2021",Calf injury,"Oct 15, 2021",Center Back,28,80,7.4,7.9,7,-2
+"Jan 1, 2022",Chest injury,"Jan 14, 2022",Center Back,28,80,6.4,6.2,N.A.,-2
+"Apr 26, 2022",Knee problems,"May 3, 2022",Center Back,28,80,6.2,5.6,6.1,"-0,5"
+"Sep 26, 2022",Hamstring injury,"Oct 25, 2022",Center Back,29,80,6.4(S),5.4,6.7,"0,333333333333333"
+"Jan 20, 2020",Ill,"Jan 25, 2020",Center Back,25,78,5.9,6.6,6.3,-2
+"Dec 27, 2020",Back injury,"Jan 6, 2021",Center Back,26,78,6.4,6.8,6.8,"-0,666666666666667"
+"Dec 26, 2021",Coronavirus,"Jan 5, 2022",Center Back,26,78,6.2,7,5.6(S),"-0,666666666666667"
+"Jan 31, 2022",Ill,"Feb 7, 2022",Center Back,27,78,6.5,6.7,N.A.,0
+"Jul 20, 2020",Neck injury,"Jul 25, 2020",Center Back,26,77,5.2,5.6,6.1,"-1,66666666666667"
+"Oct 18, 2020",Muscle injury,"Dec 1, 2020",Center Back,27,77,6.1(S),4.4,5.1,"0,666666666666667"
+"Jan 21, 2021",Knock,"Mar 25, 2021",Center Back,27,77,5.1(S),4.2,6.3,"-1,5"
+"Mar 31, 2021",Coronavirus,"Apr 20, 2021",Center Back,27,77,6.8,N.A.,N.A.,"1,66666666666667"
+"Feb 3, 2022",Ankle injury,"Feb 16, 2022",Center Back,28,77,6.5(S),4.4,N.A.,"-0,833333333333333"
+"Oct 19, 2019",Hip injury,"Nov 23, 2019",Center Back,22,73,4.4(S),5.8,6.7,"0,333333333333333"
+"Dec 18, 2019",Hamstring strain,"Mar 5, 2020",Center Back,22,73,4.6,5.2(S),N.A.,"0,5"
+"Jul 13, 2022",unknown injury,"Jan 23, 2023",Center Back,24,73,4.6,N.A.,N.A.,"-3,33333333333333"
+"Jun 12, 2020",Knee injury,"Sep 9, 2021",Center Back,28,70,4.4(S),N.A.,N.A.,4
+"Aug 24, 2019",Hamstring injury,"Oct 7, 2019",Left Back,24,83,7.2,7.5,6.1(S),"-1,33333333333333"
+"Oct 18, 2019",Muscle injury,"Nov 27, 2019",Left Back,24,83,7.2,7.5,6.1(S),"-0,666666666666667"
+"Jul 14, 2020",Ankle injury,"Sep 11, 2020",Left Back,25,83,5.2,6.8,5.6,"-0,666666666666667"
+"Nov 7, 2020",Hamstring injury,"Dec 7, 2020",Left Back,25,83,6.8,6.8,7.5(S),1
+"Nov 20, 2021",Head injury,"Dec 7, 2021",Left Back,26,83,6.9,5(S),5(S),"1,33333333333333"
+"Jan 18, 2022",Hamstring injury,"Jan 31, 2022",Left Back,26,83,7.4,5.6,N.A.,"0,5"
+"Mar 2, 2022",Coronavirus,"Mar 16, 2022",Left Back,26,83,6.9,5.2,5.4(S),"-2,33333333333333"
+"Apr 2, 2022",Leg injury,"May 13, 2022",Left Back,26,83,5.6,N.A.,N.A.,"-1,33333333333333"
+"Apr 6, 2023",unknown injury,"Apr 19, 2023",Left Back,27,83,4.2,7,5.3(S),"2,33333333333333"
+"Jul 14, 2020",Head injury,"Jul 18, 2020",Left Back,19,72,6.4(S),6.2(S),6,0
+"Sep 27, 2019",Tonsillitis,"Oct 19, 2019",Right Back,22,80,7.6,6.3,6.6,"-0,166666666666667"
+"Nov 29, 2021",Hand injury,"Dec 4, 2021",Right Back,23,80,6,6.1,6,"2,66666666666667"
+"Jan 14, 2022",Ill,"Jan 23, 2022",Right Back,23,80,6.3,6.4(S),N.A.,"0,5"
+"Sep 12, 2022",Back problems,"Oct 25, 2022",Right Back,24,80,6(S),N.A.,N.A.,"-1,66666666666667"
+"Oct 20, 2019",unknown injury,"Dec 11, 2019",Defensive Midfielder,31,80,6.6(S),6.4(S),6.4(S),"0,666666666666667"
+"Feb 10, 2022",Shin injury,"Feb 18, 2022",Defensive Midfielder,32,80,7.1,6.5,6(S),"0,666666666666667"
+"Sep 30, 2019",Ankle problems,"Dec 23, 2019",Central Midfielder,27,85,6.7,6.9,6.4,"-0,166666666666667"
+"Dec 26, 2019",Ankle problems,"Jun 8, 2020",Central Midfielder,27,85,6.6,N.A.,N.A.,"0,333333333333333"
+"Nov 16, 2020",Ankle injury,"Dec 3, 2020",Central Midfielder,28,85,6.7(S),6,6(S),"0,666666666666667"
+"Feb 4, 2021",Hamstring injury,"Mar 18, 2021",Central Midfielder,28,85,7.6,6,6(S),1
+"Nov 8, 2021",Hamstring injury,"Feb 3, 2022",Central Midfielder,28,85,6.3(S),6.3(S),6,3
+"Apr 18, 2022",Calf injury,"May 23, 2022",Central Midfielder,28,85,6.3(S),6,6,"1,66666666666667"
+"Nov 11, 2019",Knee injury,"Dec 4, 2019",Central Midfielder,23,79,7.4,5.6,7.9,-1
+"Dec 27, 2019",Knee injury,"Feb 22, 2020",Central Midfielder,23,79,7.2,6.4(S),6.1(S),1
+"Nov 22, 2020",bruise,"Dec 1, 2020",Central Midfielder,24,79,6.5,6.7,7.1,"0,333333333333333"
+"Feb 18, 2021",Knock,"Feb 26, 2021",Central Midfielder,24,79,8.3,7.9,7.1,-1
+"Aug 26, 2021",Groin injury,"Sep 16, 2021",Central Midfielder,24,79,6,6.2(S),N.A.,"-0,5"
+"Apr 6, 2022",Foot injury,"Apr 18, 2022",Central Midfielder,25,79,6,6.6,6.6,"0,333333333333333"
+"Jan 27, 2023",unknown injury,"Feb 18, 2023",Central Midfielder,26,79,6.2,6(S),6.9,1
+"Apr 9, 2023",unknown injury,"May 11, 2023",Central Midfielder,26,79,6(S),6.1,6.4(S),"0,666666666666667"
+"Feb 7, 2022",Coronavirus,"Feb 14, 2022",Central Midfielder,27,79,6,6,6,-1
+"Apr 9, 2022",Hip flexor problems,"Apr 30, 2022",Central Midfielder,27,79,6.2,6,6,"-1,66666666666667"
+"Mar 12, 2022",Ill,"Mar 14, 2022",Attacking Midfielder,25,88,6,0,5.8,"1,33333333333333"
+"Sep 7, 2019",Ill,"Sep 18, 2019",Attacking Midfielder,27,78,6.2(S),5.7(S),6.1(S),"1,33333333333333"
+"Oct 4, 2019",Hamstring injury,"Oct 23, 2019",Attacking Midfielder,27,78,5.5(S),5.5(S),N.A.,"0,5"
+"Jan 9, 2020",Ill,"Jan 14, 2020",Attacking Midfielder,27,78,6.7(S),6.1,5.7(S),3
+"Feb 25, 2021",Muscle injury,"Apr 3, 2021",Attacking Midfielder,32,78,6,N.A.,N.A.,"-1,33333333333333"
+"Jan 16, 2020",Back injury,"Jun 5, 2020",Left winger,22,85,7.5,5.8,9,"-2,66666666666667"
+"Jan 13, 2022",Dead leg,"Jan 17, 2022",Left winger,24,85,6,6.9,7,0
+"May 4, 2022",bronchitis,"May 19, 2022",Left winger,24,85,5.8,6,5.3,"-0,5"
+"Apr 8, 2023",Muscle injury,"Apr 19, 2023",Left winger,24,85,6,6.2,6.7,"1,66666666666667"
+"May 11, 2023",Leg injury,"May 24, 2023",Left winger,25,85,5.9,6.5,6.6,"1,83333333333333"
+"Sep 20, 2019",Tonsillitis,"Sep 23, 2019",Right winger,18,78,6.1(S),5.5(S),5.1(S),"-1,66666666666667"
+"Oct 17, 2020",bruise,"Nov 23, 2020",Right winger,19,78,7.6,5.5,6.2(S),4
+"Nov 19, 2021",Coronavirus,"Nov 27, 2021",Right winger,20,78,6.9,6.5,5.9,0
+"Feb 28, 2020",Knock,"Mar 7, 2020",Right winger,22,77,6.1(S),6.7,6.5,"-1,66666666666667"
+"Apr 30, 2021",unknown injury,"May 21, 2021",Right winger,23,77,6,6.4(S),6,-1
+"Aug 25, 2019",Hamstring strain,"Oct 20, 2019",Center Forward,24,79,6.9(S),6.4,6.7,"-1,33333333333333"
+"Mar 29, 2021",Torn knee ligaments,"Aug 2, 2021",Center Forward,25,79,6.2(S),6,5.6(S),"0,333333333333334"
+"Oct 15, 2021",Fitness,"Oct 29, 2021",Center Forward,26,79,6,6.2,7.4(S),"-4,83333333333333"
+"Dec 4, 2021",Knee injury,"Dec 13, 2021",Center Forward,26,79,7,7.2,N.A.,2
+"Aug 23, 2022",Achilles tendon irritation,"Sep 26, 2022",Center Forward,27,79,6.1,N.A.,N.A.,"0,333333333333333"
+"Oct 10, 2022",Back injury,"Oct 31, 2022",Center Forward,27,79,6.9,6.7,N.A.,1
+"Feb 2, 2023",Hip injury,"Mar 8, 2023",Center Forward,27,79,7.3,7.4,6.9(S),"-0,666666666666667"
+"Mar 1, 2021",Muscle injury,"Mar 15, 2021",Central Midfielder,30,77,6(S),6.5,6(S),"-1,66666666666667"
+"Sep 3, 2022",Shingles,"Oct 24, 2022",Central Midfielder,32,77,6,6.2,6.2,"1,33333333333333"
+"Dec 6, 2020",Knock,"Dec 18, 2020",Center Forward,34,81,6(S),9.2(S),6,"-0,833333333333333"
+"Feb 15, 2021",Muscle injury,"Mar 1, 2021",Center Forward,34,81,9.2,6.2,6(S),-2
+"Mar 5, 2021",Knock,"Mar 21, 2021",Center Forward,34,81,6.2,6(S),5.8(S),"1,5"
+"Nov 4, 2021",Tendon irritation,"Dec 22, 2021",Center Forward,35,81,6.5,6.2,6,-1
+"Feb 11, 2022",Groin problems,"Mar 7, 2022",Center Forward,35,81,6.2,6.4,5.6,1
+"Apr 1, 2022",Calf injury,"Apr 30, 2022",Center Forward,35,81,5.6,N.A.,N.A.,-1
+"Oct 11, 2021",Groin injury,"Oct 26, 2021",Center Back,30,85,7.2,6.2,6.4,"-3,5"
+"Nov 2, 2021",Hamstring injury,"Dec 22, 2021",Center Back,30,85,6.2,6.4,6.2,"-2,33333333333333"
+"Feb 14, 2022",abdominal problems,"Feb 18, 2022",Center Back,30,85,7.2,6.4,6.3,"1,66666666666667"
+"Apr 3, 2022",muscular problems,"Apr 21, 2022",Center Back,30,85,6.5,6.2,6.9,"-1,66666666666667"
+"Oct 22, 2022",Leg injury,"Nov 14, 2022",Center Back,31,85,6(S),6.9,6.6(S),"-0,666666666666667"
+"Apr 14, 2023",Foot injury,"May 8, 2023",Center Back,31,85,6.5,6,7.3,"1,33333333333333"
+"Jan 10, 2022",Hip flexor problems,"Jan 17, 2022",Center Forward,39,90,8,7,7,"-0,333333333333333"
+"Mar 3, 2022",Hip flexor problems,"Mar 7, 2022",Center Forward,39,90,7,6,7,"-4,33333333333333"
+"Apr 14, 2023",Metatarsal fracture,"Jun 30, 2023",Center Back,28,84,6.7(S),7.8,7.4,"0,666666666666667"
+"Jan 29, 2023",Ankle injury,"Apr 6, 2023",Central Midfielder,33,83,5.7(S),6,6.3,1
+"Mar 6, 2023",unknown injury,"Mar 14, 2023",Central Midfielder,32,81,6,6.9,7,"0,666666666666667"
+"Apr 16, 2023",Groin problems,"Apr 19, 2023",Central Midfielder,32,81,6.1,6.4,6.4(S),"1,66666666666667"
+"May 10, 2023",Meniscus injury,"Jun 15, 2023",Central Midfielder,32,81,6.3,7,6.3(S),"2,33333333333333"
+"Apr 26, 2022",Tonsillitis,"May 8, 2022",Left winger,19,82,N.A.,5,6.6,"-0,333333333333333"
+"Dec 26, 2022",depression,"Jan 31, 2023",Left winger,20,82,6,6,5.9(S),"1,66666666666667"
+"Oct 25, 2021",Knee injury,"Feb 4, 2022",Goalkeeper,26,80,6.9,6.3,6.5,"-0,666666666666667"
+"Jul 9, 2022",Hamstring injury,"Aug 31, 2022",Center Back,24,76,8.1,6(S),7,0
+"Dec 2, 2023",Foot injury,"Jan 16, 2024",Center Back,26,76,5.5(S),5.1,5.9,1
+"Apr 6, 2024",Calf strain,"Apr 20, 2024",Center Back,26,76,7.6,6.7,5.6,2
+"Feb 10, 2024",Ankle injury,"Apr 13, 2024",Center Back,29,79,6,5.6,6.9,"-1,66666666666667"
+"Sep 16, 2023",Knee injury,"Oct 5, 2024",Left Back,24,75,5.6,6.2,6,"-0,666666666666667"
+"Jan 5, 2024",Foot injury,"Jan 30, 2024",Defensive Midfielder ,30,77,6.9(S),7.1,6.3(S),3
+"Mar 9, 2024",Back injury,"Apr 16, 2024",Defensive Midfielder ,30,77,6.8,7.5,5.7(S),"0,666666666666667"
+"Mar 15, 2023",Knee injury,"Apr 6, 2023",Defensive Midfielder ,24,76,5.6(S),7.5(S),5.8(S),-1
+"Aug 19, 2023",Hamstring injury,"Jan 4, 2024",Central Midfielder,23,73,6.1(S),N.A.,N.A.,"-3,33333333333333"
+"Dec 6, 2023",Ankle injury,"Mar 30, 2024",Central Midfielder,23,73,6.1(S),N.A.,N.A.,-4
+"Feb 5, 2024",Knee surgery,"Mar 15, 2025",Central Midfielder,23,73,6.1(S),6(S),N.A.,-1
+"Mar 25, 2022",Ankle injury,"May 16, 2022",Central Midfielder,24,73,6(S),6.2(S),6.1(S),"1,33333333333333"
+"Mar 25, 2023",Thigh problems,"Apr 9, 2023",Central Midfielder,25,73,5.6,5.6,N.A.,"-1,16666666666667"
+"Aug 25, 2023",Shoulder injury,"Nov 11, 2023",Central Midfielder,24,70,5.6(S),N.A.,N.A.,1
+"Mar 19, 2022",Coronavirus,"Mar 26, 2022",Attacking Midfielder,28,71,5.8(S),5.6(S),5.4(S),"-0,333333333333333"
+"Dec 7, 2023",Ankle injury,"Mar 12, 2024",Right winger,22,80,6,8.2,5.4(S),"-1,66666666666667"
+"Sep 14, 2024",Ankle injury,"Nov 30, 2024",Center Forward,25,79,5.9(S),6,5.7(S),"0,333333333333333"
+"Sep 26, 2023",Muscle injury,"Oct 20, 2023",Center Back,33,79,6.1,5.6,N.A.,"-0,5"
+"Feb 26, 2024",Ankle injury,"Jun 30, 2024",Center Back,33,79,5.2,5.8,5.6,"1,33333333333333"
+"Oct 10, 2022",Ankle injury,"Dec 31, 2022",Right Back,21,76,6.8,6.5(S),6.1(S),"1,66666666666667"
+"Nov 2, 2023",Hamstring injury,"Apr 2, 2025",Right Back,22,76,5.7(S),5.1,5.6,"-1,33333333333333"
+"Sep 23, 2023",Adductor injury,"Apr 10, 2024",Left winger,21,72,6(S),6(S),5.8(S),"-0,666666666666667"
+"Sep 29, 2023",Knee surgery,"Dec 5, 2023",Left winger,22,73,6.1(S),6(S),N.A.,"-1,83333333333333"
+"Aug 26, 2023",Adductor pain,"Sep 27, 2023",Left winger,22,73,6.1(S),6(S),N.A.,"-0,833333333333333"
+"Mar 5, 2023",Knee injury,"May 2, 2023",Left winger,22,73,5.1(S),5.4,5.1(S),"-0,666666666666667"
+"Oct 11, 2022",Fitness,"Oct 31, 2022",Left winger,22,73,6.6(S),5.1(S),5.2,-5
+"Sep 5, 2022",Ligament injury,"Oct 10, 2022",Left winger,22,73,6.6(S),5.1(S),5.2,"-3,33333333333333"
+"Oct 3, 2023",cold,"Oct 19, 2023",Goalkeeper,31,79,5.7,6,6.3,0
+"Nov 18, 2023",Injury to the ankle,"Dec 15, 2023",Center Back,23,75,7.5,7.8,6.7,0
+"May 17, 2024",unknown injury,"Jun 26, 2024",Center Back,23,75,6.7,7.2,6.2,-2
+"Oct 15,2022",Calf injury,"Nov 8,2022",Center Forward,27,81,5.8,5.9,5.7,"-2,33333333333333"
+"Dec 9,2022",Hamstring injury,"Jan 13,2023",Center Forward,28,81,7.4,N.A.,N.A.,"-0,333333333333333"
+"Nov 10,2023",Groin Surgery,"Dec 3,2023",Center Forward,28,81,6.7,6.2,6.3,-1
+"Jan 26,2021",Muscle injury,"Feb 19,2021",Left Back,24,82,8,8,6.1,-3
+"Feb 15,2022",Coronavirus,"Feb 22,2022",Left Back,25,80,6.7,7.1,7.1,"0,666666666666667"
+"Apr 30,2022",Groin Surgery,"Jun 30,2022",Left Back,25,80,6,6,6.4,0
+"Jan 24,2019",Groin Surgery,"Feb 25,2019",Center Back,27,79,6.4,6,6.2,"0,666666666666667"
+"Aug 8,2019",Ankle sprain,"Aug 19,2019",Center Back,27,79,5.8,5.8,5.9,"1,33333333333333"
+"Nov 21,2020",Shin injury,"Feb 10,2021",Center Back,28,79,7.2,6.9,6.8,"-0,666666666666667"
+"Sep 15,2022",Shin injury,"Oct 3,2022",Center Back,30,76,7,7.1,7.1,0
+"Feb 17,2020",Broken arm,"Apr 30,2020",Left winger,28,87,7.1,7.4,9,"-2,33333333333333"
+"Mar 15,2021",Hamstring injury,"Apr 5,2021",Left winger,29,89,6.8,7.3,5.3,"0,666666666666667"
+"Sep 6,2021",Calf injury,"Sep 20,2021",Left winger,30,89,7,6.1,5.8,-4
+"Jan 6,2022",Hamstring injury,"Feb 3,2022",Left winger,30,89,7.7,7.7,6.7,"0,166666666666667"
+"Nov 2,2022",Facial fracture,"Nov 20,2022",Left winger,31,88,5.9,6,7,"0,666666666666667"
+"Nov 9,2019",Hip injury,"Dec 4,2019",Defensive Midfielder,19,67,7.3,6.8,6.9,"-0,333333333333333"
+"Feb 5,2022",Inflammation bone,"Jun 30,2022",Defensive Midfielder,22,77,7.2,6.8,6.7,"-0,666666666666667"
+"Dec 6,2019",Ankle sprain,"Dec 19,2019",Defensive Midfielder,24,80,6.5,6.5,6.4,"4,66666666666667"
+"Nov 19,2020",Knock,"Nov 25,2020",Defensive Midfielder,23,78,6.2,7.6,5.9,1
+"Jan 2,2020",Knee Surgery,"Mar 20,2020",Central Midfielder,30,81,6.2,6.9,6.2,"0,666666666666667"
+"Sep 16,2021",Ankle sprain,"Sep 23,2021",Right winger,29,81,6.7,6.8,8.3,"-2,66666666666667"
+"Feb 24,2022",Dead leg,"Mar 23,2022",Right winger,30,81,6.8,6.9,5.6,"4,66666666666667"
+"Aug 29,2022",Calf injury,"Oct 10,2022",Right winger,30,77,7.4,7.5,7.8,"0,333333333333334"
+"Aug 4,2019",Hamstring injury,"Aug 31,2019",Attacking Midfielder,23,86,6.5,6.9,6.2,1
+"Jul 3,2020",Muscle injury,"Jul 25,2020",Attacking Midfielder,24,83,6.9,5.9,5.8,"0,666666666666667"
+"Jan 22,2021",Tendon irritation,"Feb 9,2021",Attacking Midfielder,25,80,7.5,7.8,5.6,"-2,66666666666667"
+"Nov 1,2019",Ill,"Nov 4,2019",Center Forward,26,89,5.5,5.9,6.8,"1,33333333333333"
+"Jan 2,2020",Torn thigh muscle,"Mar 9,2020",Center Forward,27,89,7.6,6.9,6.7,0
+"Mar 9,2020",Fitness,"Apr 1,2020",Center Forward,27,89,6.9,6.5,7.6,0
+"Jan 29,2021",Ankle sprain,"Feb 5,2021",Center Forward,28,89,7.2,8.3,5.3,"0,333333333333333"
+"Apr 16,2021",Ankle sprain,"Apr 22,2021",Center Forward,28,89,7.3,7.2,6.6,"1,66666666666667"
+"Oct 6,2019",Elbow injury,"Jan 18,2020",Goalkeeper,32,88,8.4,6.6,6.3,-3
+"Feb 6,2020",Groin Strain,"Mar 6,2020",Goalkeeper,33,88,6.9,7.4,6.3,"-1,66666666666667"
+"Feb 6,2023",Knee injury,"Mar 22,2023",Goalkeeper,36,84,7.5,6.5,6.4,0
+"Apr 24,2023",Thigh Problems,"Oct 2,2023",Goalkeeper,36,84,7.4,7.9,7.6,"1,66666666666667"
+"Sep 12,2019",Ankle sprain,"Sep 17,2019",Center Back,23,84,6.5,6.7,6,"4,33333333333333"
+"Sep 9,2021",Quarantine,"Sep 17,2021",Center Back,25,81,7.8,8.3,7.5,-4
+"Aug 30,2019",Hip injury,"Sep 12,2019",Center Back,25,79,6.4,N.A.,N.A.,"0,666666666666667"
+"Oct 13,2020",Muscle injury,"Oct 25,2020",Center Back,26,79,6.1,6.8,6.7,"-2,66666666666667"
+"Jan 3,2022",Thigh Problems,"Jan 20,2022",Center Back,28,80,7.5,7.3,6.8,"-0,333333333333333"
+"Feb 4,2022",Thigh Problems,"Feb 15,2022",Center Back,28,80,6.5,N.A.,N.A.,"0,5"
+"Dec 21,2021",Muscle injury,"Jan 7,2022",Left Back,21,74,8.2,6.7,N.A.,"-0,166666666666667"
+"Mar 7,2022",Hamstring injury,"Apr 7,2022",Left Back,22,75,5.9,6.4,7.4,"-1,66666666666667"
+"Feb 11,2023",Hamstring injury,"Jun 30,2023",Left Back,23,76,8.1,7.3,6.5,"1,33333333333333"
+"Dec 3,2021",Unknown surgery,"Dec 13,2021",Right Back,22,78,6.6,6.7,6.6,2
+"Mar 25,2023",Knee injury,"May 1,2023",Right Back,24,78,7.9,7.2,6.9,-1
+"Nov 16,2020",Coronavirus,"Nov 25,2020",Right Back,28,74,7.5,6.7,7.4,1
+"Jan 16,2021",Unknown injury,"Jan 26,2021",Right Back,29,81,6.5,6.2,N.A.,"0,5"
+"Apr 1,2021",Muscle injury,"Apr 30,2021",Right Back,29,81,6.7,7.5,6.2,-1
+"Oct 13,2021",Unknown injury,"Oct 26,2021",Right Back,29,81,7.4,5.7,6.5,"-0,666666666666667"
+"Apr 10,2022",Internal ligament tear,"Jul 10,2022",Right Midfielder,30,77,6.8,7.3,5.8,-3
+"May 10,2023",Bruise,"Jun 7,2023",Defensive Midfielder,28,84,6.4,6.7,7,"0,833333333333333"
+"Feb 25,2022",Ankle injury,"Mar 4,2022",Defensive Midfielder,25,79,6.6,6.5,6.1,"4,66666666666667"
+"Aug 28,2022",Head injury,"Sep 1,2022",Defensive Midfielder,25,79,6.6,7,7,-1
+"Dec 3,2022",Adductor pain,"Jan 16,2023",Defensive Midfielder,25,79,7.7,6.9,6.8,"0,333333333333333"
+"Feb 12,2023",Cruciate ligament tear,"Oct 24,2023",Defensive Midfielder,26,82,6.9,6.9,N.A.,"-1,33333333333333"
+"Nov 27,2023",Torn ankle ligaments,"Dec 29,2023",Defensive Midfielder,26,82,5.8,6.2,6.3,2
+"Aug 18,2019",Hamstring injury,"Sep 12,2019",Central Midfielder ,22,81,7.6,7.6,N.A.,"-1,5"
+"Nov 19,2019",Groin Strain,"Nov 26,2019",Central Midfielder ,22,81,5.7,6.4,6.1,"1,33333333333333"
+"Dec 6,2019",Groin Strain,"Dec 21,2019",Central Midfielder ,22,81,7.4,6,N.A.,3
+"Jan 1,2020",Groin Strain,"Jan 21,2019",Central Midfielder ,23,80,7.3,6.2,N.A.,0
+"Jul 13,2020",Knock,"Jul 31,2020",Central Midfielder ,23,80,6.1,6.1,6.3,"2,66666666666667"
+"Dec 5,2020",Unknown injury,"Dec 8,2020",Central Midfielder ,23,80,6.2,6.9,6.6,1
+"Sep 7,2019",Hip injury,"Oct 20,2019",Central Midfielder ,23,82,5.8,5.9,5.9,"1,66666666666667"
+"Aug 22,2020",Hamstring injury,"Sep 16,2020",Central Midfielder ,24,82,6.8,6,7.5,"-2,66666666666667"
+"Oct 2,2020",Muscle Strain,"Oct 21,2020",Central Midfielder ,24,82,6.1,6.9,N.A.,1
+"Dec 20,2020",Hamstring injury,"Mar 14,2021",Central Midfielder ,24,82,6.3,6.8,N.A.,"1,5"
+"Sep 9,2021",Quarantine,"Sep 17,2021",Central Midfielder ,26,88,6.4,6.2,6.5,"-4,33333333333333"
+"Nov 18,2021",Knee injury,"Dec 15,2021",Central Midfielder ,25,88,6.9,7.3,5.8,"3,33333333333333"
+"Aug 29,2023",Hamstring injury,"Oct 5,2023",Central Midfielder ,27,81,N.A.,N.A.,N.A.,"-0,666666666666667"
+"Dec 14,2023",Unknown injury,"Dec 22,2024",Central Midfielder ,27,81,7.4,7.1,6.7,"1,33333333333333"
+"Jan 6,2024",Muscle Strain,"Feb 11,2024",Central Midfielder ,28,80,6.1,5.8,8.2,0
+"May 15,2024",Knee injury,"May 20,2024",Central Midfielder ,28,80,6.8,6.7,7.2,4
+"Oct 25,2021",Hamstring injury,"Nov 18,2021",Left winger,20,66,5.9,6.3,6.9,"-0,833333333333333"
+"Aug 2,2023",Inflammation of pubic bone,"Oct 5,2023",Left winger,22,77,6.9,7.3,7,"1,33333333333333"
+"Nov 6,2020",Knock,"Nov 20,2020",Left winger,22,66,6.8,7.2,7.4,0
+"Nov 27, 2020",head injury,"Dec 4, 2020",Goalkeeper,28,82,7.9,7.5,6,"-4,33333333333333"
+"May 12, 2021",knee surgery,"Jun 30, 2021",Goalkeeper,28,82,6.6,5.7,7.5,"-4,33333333333333"
+"Dec 29, 2021",Coronavirus,"Jan 6, 2022",Goalkeeper,29,82,6,7,9,"-1,66666666666667"
+"Sep 16, 2020",toe injury,"Sep 29, 2020",Center Back,27,81,6,6.6,7,"-1,83333333333333"
+"Jul 3, 2020",hamstring strain,"Nov 5, 2020",Center Back,30,78,7.7,7.2,4.7,"1,33333333333333"
+"Feb 14, 2021",head injury,"Feb 21, 2021",Center Back,31,79,6.5,6.4,5.6,"-0,333333333333333"
+"Mar 1, 2022",hairline fracture,"Jun 30, 2022",Center Back,32,79,7.2,6.5,8.1,"-2,33333333333333"
+"Oct 20, 2020",calf injury,"Nov 22, 2020",Center Back,32,74,6.8,5.1(S),7,"-0,333333333333333"
+"Feb 26, 2022",knee injury,"May 2, 2022",Center Back,33,73,6.1,7.5,7.1,-4
+"Dec 1, 2019",hamstring strain,"Dec 20, 2019",Left Back,26,76,6,6.9,6.5,"-3,66666666666667"
+"Jul 16, 2020",hamstring strain,"Sep 16, 2020",Left Back,26,76,5.9,5.6,7.4,"0,166666666666667"
+"Dec 30, 2020",hamstring strain,"Feb 15, 2021",Left Back,27,76,6.3,6.4,6.4,-1
+"Jan 7, 2022",Bruise on ankle,"Feb 25, 2022",Left Back,28,76,7,5.5,6.6,"1,33333333333333"
+"Feb 3, 2020",knee injury,"Jun 10, 2020",Right Back,30,75,7,6.1,4.7,"1,66666666666667"
+"Jun 28, 2020",ankle and knee injury,"Oct 25, 2020",Right Back,31,75,5.2,7,N.A.,"2,66666666666667"
+"Dec 5, 2019",knock,"Dec 13, 2019",Right Back,34,72,5.2,6.1,6.7,"-4,33333333333333"
+"Jan 20, 2020",back injury,"Feb 1, 2020",Right Back,34,72,6.4,6.4,6.1,"2,66666666666667"
+"Sep 29, 2019",shoulder injury,"Oct 25, 2019",Defensive Midfielder,30,76,6.1,7.3,6.5,"-0,333333333333333"
+"Jun 30, 2020",broken foot,"Dec 13, 2020",Defensive Midfielder,31,77,6.2,6.4,5.5,"1,33333333333333"
+"Nov 24, 2019",groin injury,"Dec 13, 2019",Defensive Midfielder,30,77,6.7,6.5,6.5,"-4,33333333333333"
+"Apr 17, 2022",broken ankle,"Dec 31, 2022",Defensive Midfielder,33,77,N.A.,7,6,"1,83333333333333"
+"Jan 28, 2021",ankle injury,"Feb 12, 2021",Central Midfielder,24,76,5.9,6.4,6.4,"-2,33333333333333"
+"Dec 13, 2021",Coronavirus,"Jan 6, 2022",Central Midfielder,26,75,5.8(S),6.3,6.8,"-1,66666666666667"
+"Sep 21, 2020",chest injury,"Oct 2, 2020",Left Midfielder,28,74,6,N.A.,N.A.,1
+"Nov 24, 2020",hamstring injury,"Dec 4, 2020",Left Midfielder,28,74,5.7(S),6.8,5.9(S),"-4,33333333333333"
+"Dec 22, 2020",hamstring injury,"Dec 28, 2020",Left Midfielder,28,74,6.9,5.6,6.6,"-1,66666666666667"
+"Feb 1, 2021",calf injury,"Feb 12, 2021",Left Midfielder,29,74,6.1,5.9,5.7,-1
+"Dec 22, 2020",groin injury,"Jan 11, 2021",Left winger,21,77,5.9,6.1,6,"0,333333333333333"
+"Aug 26, 2019",calf strain,"Sep 27, 2019",Right winger,28,77,6.9,5.9,5.6,"-1,66666666666667"
+"Oct 13, 2019",hamstring strain,"Dec 25, 2019",Right winger,29,77,5.9,N.A.,N.A.,-3
+"Jan 5, 2020",hamstring strain,"Jul 4, 2020",Right winger,29,77,5.3(S),5.6(S),6.1(S),"1,33333333333333"
+"Oct 28, 2020",hamstring strain,"Nov 5, 2020",Right winger,30,77,5.8,5.5,6.2,-2
+"Nov 29, 2020",hamstring strain,"Jan 11, 2021",Right winger,30,77,6.1,N.A.,N.A.,"-0,666666666666667"
+"Feb 18, 2021",groin strain,"Mar 4, 2021",Right winger,30,77,5.6,7.4,7.3,"-2,33333333333333"
+"Jan 24, 2022",appendectomy and calf injury,"Aug 21, 2022",Right winger,31,73,6,6,8,"-1,66666666666667"
+"Sep 23, 2023",muscle injury,"Oct 22, 2023",Right winger,32,72,5.7,5.8,5.6,0
+"Dec 22, 2019",ill,"Jan 10, 2020",Right winger,32,74,6.6(S),5.4(S),5.9,1
+"Oct 20, 2019",hamstring injury,"Nov 8, 2019",Center Forward,27,78,7.2,5.7,6.6,"-2,5"
+"Feb 16, 2020",hamstring strain,"Feb 28, 2020",Center Forward,28,78,5.2,5.5,7,2
+"Jun 5, 2020",calf injury,"Jul 4, 2020",Center Forward,28,78,5.9(S),7.1,N.A.,-1
+"Feb 1, 2021",hamstring strain,"Feb 18, 2021",Center Forward,29,78,5.8,7.1,5.2,"0,333333333333333"
+"Oct 17, 2019",groin injury,"Oct 25, 2019",Center Forward,29,78,5.3,5.1,6.1,-2
+"Dec 5, 2019",groin injury,"Dec 13, 2019",Center Forward,30,78,5.4(S),5.3,6.1,"-4,33333333333333"
+"Jan 2, 2020",groin surgery,"Sep 29, 2020",Center Forward,30,78,5.5,5.1,5.2(S),"1,33333333333333"
+"Jan 27, 2021",bruise,"Feb 5, 2021",Center Forward,31,75,7.1,5.7,5.4,"-0,666666666666667"
+"Nov 18, 2021",groin injury,"Feb 6, 2022",Center Forward,32,73,6(S),6(S),5(S),"0,666666666666667"
+"Jan 5, 2020",ill,"Jan 18, 2020",Center Forward,30,76,5.9(S),5.9(S),5.1,"-1,66666666666667"
+"Jun 26, 2020",hamstring strain,"Jul 4, 2020",Center Forward,30,76,7.3,5.1,6.7,"2,33333333333333"
+"Sep 23, 2020",ankle injury,"Oct 18, 2020",Center Forward,31,75,6,N.A.,N.A.,"0,5"
+"Dec 28, 2020",knee injury,"Jan 11, 2021",Center Forward,32,75,6(S),5.1,5.6,1
+"Apr 29, 2020",hamstring injury,"Aug 7, 2020",Center Forward,33,74,5.5,6.1,5.6,"-1,66666666666667"
+"Nov 3, 2019",hip injury,"Dec 3, 2019",Center Forward,27,73,5.7(S),6(S),N.A.,"2,33333333333333"
+"Dec 18, 2020",back injury,"Jan 11, 2020",Center Forward,28,74,6(S),6(S),5.3,"0,333333333333333"
+"Feb 10, 2021",hamstring injury,"Feb 18, 2021",Center Forward,28,74,7,5.5,5.2,"2,83333333333333"
+"Feb 3, 2022",groin surgery and elbow injury,"Feb 28, 2022",Center Forward,29,73,5.5,6,6,"0,333333333333333"
+"Nov 19, 2020",hamstring injury,"Dec 13, 2020",Central Midfielder,31,74,5.6,6,6.8,"0,666666666666667"
+"Feb 14, 2021",knock,"Feb 18, 2021",Central Midfielder,31,74,5.4,N.A.,N.A.,2
+"Dec 8, 2021",infection,"Jan 9, 2022",Right Back,26,75,6(S),N.A.,N.A.,"-0,333333333333333"
+"Dec 4, 2021",hamstring injury,"Dec 31, 2021",Left winger,25,75,5.5,5.5,6.9,"-0,666666666666667"
+"Apr 22, 2022",knee problems,"May 5, 2022",Left winger,25,75,6,5.6,6,1
+"Oct 4, 2023",meniscus injury,"Oct 30, 2023",Center Back,23,75,6.9,6.1,7,"-1,66666666666667"
+"Jan 8, 2024",knee injury,Present,Center Back,23,75,5.9,6.4,7,"-0,333333333333333"
+"Dec 6, 2023",knee injury,"Jun 17, 2024",Right winger,19,68,6,7.2,6,-1
+"Sep 10, 2023",unknown injur,"Oct 15, 2023",Right winger,29,75,5.6(S),5.7,N.A.,"1,5"
+"Nov 9, 2023",depression,"Dec 10, 2023",Center Forward,23,69,5.9,5.7,6.9,"2,33333333333333"
+"Feb 8, 2024",muscle injury,"Sep 23, 2024",Center Back,21,72,6.8,6.3,N.A.,"-2,33333333333333"
+"Aug 30, 2023",knee injury,"Sep 25, 2023",Right Back,24,71,5.5,N.A.,N.A.,"1,66666666666667"
+"Jan 28, 2021",chest injury,"Feb 18, 2021",Goalkeeper,26,80,5.9,6.5,6.3,0
+"Sep 13, 2021",shoulder injury,"Sep 27, 2021",Goalkeeper,27,81,7.3,7,7,"-4,33333333333333"
+"Sep 9, 2022",thigh problems,"Sep 27, 2022",Goalkeeper,28,82,9,6,7.3,1
+"Jan 17, 2020",neck injury,"Jan 20, 2020",Center Back,27,79,7.6,6.2,6(S),"-0,666666666666667"
+"Oct 20, 2019",knee injury,"Nov 2, 2019",Center Back,25,79,7.1,6.6,6.2,"-0,666666666666667"
+"Dec 6, 2019",bruise,"Dec 14, 2019",Center Back,25,79,5.8,6.1,5.8,4
+"Jun 2, 2020",muscle injury,"June 30, 2020",Center Back,25,79,6.5,6.3,8.6,"-0,166666666666667"
+"Jul 13, 2020",muscle injury,"Sep 12, 2020",Center Back,25,79,6.2,6.8,6.6,1
+"Feb 18, 2021",calf injury,"Mar 12, 2021",Center Back,26,79,5.8,6.5,6.4,"2,33333333333333"
+"Oct 22, 2021",thigh problems,"Nov 30, 2021",Center Back,27,79,6.8,7,6,-1
+"Feb 8, 2022",hamstring injury,"Apr 11, 2022",Center Back,27,79,5.9,7,6,"1,33333333333333"
+"Aug 6, 2022",ankle injury,"Oct 31, 2022",Center Back,27,76,5.8,N.A.,N.A.,"0,666666666666667"
+"Jul 7, 2020",calf injury,"Jul 15, 2020",Center Back,22,77,5.8,6.7,8.1,"-1,83333333333333"
+"Aug 27, 2022",knee injury,"Oct 16, 2022",Center Back,24,75,6.7,6.5,6,"0,666666666666667"
+"Feb 9, 2020",calf injury,"Mar 7, 2020",Left Back,26,83,7.4,6.6,7.7,"-1,5"
+"Nov 26, 2020",ankle injury,"Jan 11, 2021",Left Back,27,84,9,6.4,5.7,1
+"Dec 15, 2019",unknown injury,"Dec 18, 2019",Right Back,27,78,7.9,5.6,7.6,"0,666666666666667"
+"Jun 21, 2020",foot injury,"Jul 1, 2020",Right Back,27,78,5.9,5.9(S),6.2,"2,16666666666667"
+"Nov 24, 2019",hamstring injury,"Dec 14, 2019",Right Back,30,78,5.9(S),N.A.,N.A.,"1,33333333333333"
+"Mar 2, 2020",hamstring strain,"Jun 14, 2020",Right Back,30,78,5.7,6.6,5.6(S),"-4,66666666666667"
+"Oct 17, 2020",muscle injury,"Dec 18, 2020",Right Back,31,79,5.8,6.8,7.4,"-1,66666666666667"
+"Sep 17, 2021",hamstring injury,"Oct 15, 2021",Right Back,31,78,6.3,6.4,6,"-1,66666666666667"
+"May 1, 2023",knee injury,"Nov 23, 2023",Right Back,33,75,6.3,5.8,6.2,1
+"Aug 18, 2019","hamstring injury, archilles tendon rupture and inner ligament injury","Jun 30, 2021",Defensive Midfielder,24,79,6.7,6.3(S),N.A.,"-1,5"
+"Dec 8, 2019",calf strain,"Jan 4, 2020",Defensive Midfielder,29,76,6.3,5.9(S),5(S),1
+"Feb 24, 2020",knee injury,"Aug 22, 2020",Defensive Midfielder,29,76,5.7,7.6,5.8(S),-2
+"Sep 2, 2019",bruised ribs,"Oct 4, 2019",Central Midfielder,26,80,7.3,6.4,6.4,-2
+"Nov 4, 2019",ankle injury,"Feb 21, 2020",Central Midfielder,26,80,7,6.2,6,-1
+"Sep 27, 2020",bruise,"Oct 16, 2020",Central Midfielder,27,79,6.7,7.1,6.4,"0,333333333333333"
+"Sep 21, 2021",calf injury,"Dec 5, 2021",Central Midfielder,28,76,5(S),7(S),6(S),0
+"Jan 30, 2020",ill,"Feb 4, 2020",Central Midfielder,21,75,6.3,6.7,6.7,1
+"Oct 28, 2020",bruise,"Nov 4, 2020",Central Midfielder,22,75,7,N.A.,N.A.,-3
+"Nov 19, 2021",knee injury,"Jun 30, 2022",Central Midfielder,23,75,6.2(S),6,5.7(S),"-1,33333333333333"
+"Oct 6, 2019",muscle injury,"Oct 24, 2019",Central Midfielder,28,77,6.5,6.5,6.4,"3,66666666666667"
+"Nov 4, 2019",muscle injury,"Dec 20, 2019",Central Midfielder,28,77,7,6.2(S),N.A.,"-0,166666666666667"
+"Jun 2, 2020",calf injury,"Sep 23, 2020",Central Midfielder,29,77,6.4,5.6,6.9,"0,666666666666667"
+"Nov 2, 2020",bruise,"Nov 27, 2020",Central Midfielder,29,75,5.9(S),6.2(S),7,"-0,166666666666667"
+"Dec 6, 2020",hamstring injury,"Feb 3, 2021",Central Midfielder,30,75,5.8(S),5.6,N.A.,"1,83333333333333"
+"Dec 8, 2019",knock,"Dec 20, 2019",Attacking Midfielder,30,80,6.6,6.5,6.3,"0,666666666666667"
+"Jan 12, 2020",groin injury,"Jan 31, 2020",Attacking Midfielder,30,80,6.6,6.3,6.9,"-0,333333333333333"
+"Dec 23, 2019",hamstring injury,"Jan 27, 2020",Left winger,23,77,5.6,6.3,5.8,"-0,333333333333333"
+"Oct 1, 2021",calf injury,"Oct 13, 2021",Left winger,25,76,7,6,6.3(S),"-0,333333333333333"
+"Aug 20, 2023",hamstring injury,"Sep 15, 2023",Left winger,27,76,5.2,6.4,N.A.,"1,5"
+"Sep 26, 2019",ill,"Oct 4, 2019",Left winger,27,78,5.8,5.8(S),6(S),-1
+"Oct 27, 2019",knee injury,"Nov 30, 2019",Left winger,27,78,7.2,5.4,N.A.,"-0,833333333333333"
+"Jan 1, 2020",knee injury,"Jan 4, 2020",Left winger,27,78,6.4(S),6.2,6.4,"-0,333333333333333"
+"Dec 29, 2022",ill,"Jan 4, 2023",Left winger,21,74,6.4,6(S),5.6(S),"0,5"
+"Sep 9, 2019",head injury,"Oct 18, 2019",Right winger,30,76,6.1(S),6(S),5,1
+"Nov 24, 2019",knock,"Dec 4, 2019",Right winger,30,76,5.9,5.7,5.2,"-0,666666666666667"
+"Dec 8, 2019",calf strain,"Dec 25, 2019",Right winger,30,76,5.5,N.A.,N.A.,-2
+"Feb 9, 2020",knee injury,"Feb 28, 2020",Right winger,30,76,6.2,6.6,6.8,-2
+"Jun 8, 2020",abdominal muscle strain,"Jul 8, 2020",Right winger,31,76,5.4,5.4(S),N.A.,"2,66666666666667"
+"Jan 12, 2020",knee injury,"Jan 30, 2020",Center Forward,22,81,8.3,6.7,7.5,"-0,333333333333333"
+"Dec 5, 2020",head injury,"Dec 31, 2020",Center Forward,23,81,5.9,7.1,6.8,"-0,333333333333333"
+"Sep 13, 2021",knee injury,"Oct 22, 2021",Center Forward,24,81,5.7,5.7,7,"-1,66666666666667"
+"Dec 12, 2021",calf injury,"Jan 12, 2022",Center Forward,24,81,4.9,7.8,6,"0,833333333333333"
+"Jul 17, 2020",knee injury,"Jul 25, 2020",Center Forward,20,75,5.3(S),5.4(S),5.5(S),2
+"Jan 2, 2021",muscle injury,"Jan 26, 2021",Center Forward,23,80,6,6,6.4,"0,666666666666667"
+"Feb 11, 2021",hamstring injury,"Feb 19, 2021",Center Forward,23,80,6.3,7.5,7.2,"-1,66666666666667"
+"Aug 28, 2021",broken toe,"Dec 31, 2021",Center Forward,24,81,6.6,7,7.2,-1
+"Apr 12, 2022",hamstring injury,"Apr 30, 2022",Center Forward,25,81,5,5.5,6,"-0,666666666666667"
+"Nov 5, 2022",hamstring injury,"Dec 28, 2022",Center Forward,25,78,7.2,5.6,6.8,"-2,33333333333333"
+"Feb 4, 2023",hamstring injury,"Apr 20, 2023",Center Forward,25,78,6.6,5.7,5.8,"-0,333333333333333"
+"May 20, 2023",hamstring injury,"Jun 20, 2023",Center Forward,26,78,7,5.2,6.3,"0,666666666666667"
+"Apr 25, 2024",ill,"May 1, 2024",Center Forward,27,77,7.3,6.1,7.5,"-0,666666666666667"
+"Oct 18, 2019",groin injury,"Oct 27, 2019",Center Forward,28,77,5.1,N.A.,N.A.,"2,5"
+"Mar 2, 2020",cruciate ligament surgery,"Oct 26, 2020",Center Forward,28,77,5.6(S),N.A.,N.A.,-1
+"Oct 26, 2020",hamstring injury,"Nov 6, 2020",Center Back,22,75,5.8,5.9(S),N.A.,0
+"Aug 6, 2022",broken fibula,"Nov 5, 2022",Center Back,24,76,6,N.A.,N.A.,"0,666666666666667"
+"Apr 30, 2023",adductor injury,"May 30, 2023",Center Back,25,76,5.2,6,5.6,2
+"Oct 2, 2020",groin injury,"Oct 16, 2020",Defensive Midfielder,29,83,6.3,7.2,7.2,"0,333333333333333"
+"Dec 17, 2020",muscle injury,"Feb 13, 2021",Defensive Midfielder,29,83,6,7.1,6.5,"-0,666666666666667"
+"Mar 4, 2021",foot injury,"May 7, 2021",Central Midfielder,28,79,6.5,6.7,6.3,"-2,33333333333333"
+"Oct 17, 2021",stress reaction of the bone,"Nov 28, 2021",Central Midfielder,28,79,6.8,7.6,8,"-1,66666666666667"
+"Aug 13, 2022",hamstring injury,"Oct 3, 2022",Central Midfielder,29,77,5.5,6.7,N.A.,1
+"Dec 17, 2023",thigh problems,"Jan 12, 2024",Central Midfielder,30,77,6.2,7,7.3,"-4,33333333333333"
+"Oct 26, 2020",groin injury,"Nov 6, 2020",Attacking Midfielder,29,82,6.2,7.4,10,-1
+"Dec 6, 2020",calf strain,"Dec 31, 2020",Attacking Midfielder,29,82,7.3,6.9,7.3,"1,33333333333333"
+"Feb 22, 2021",calf injury,"Apr 1, 2021",Attacking Midfielder,29,82,7.2,5.8(S),6.2,"0,666666666666667"
+"May 1, 2021",calf injury,"May 14, 2021",Attacking Midfielder,29,82,6.3,6.5,7.3,"-0,666666666666667"
+"Feb 7, 2022",Coronavirus,"Feb 16, 2022",Left Back,22,76,5,N.A.,N.A.,"1,5"
+"May 13, 2023",muscle fatigue,"Jun 5, 2023",Left Back,22,76,6.8,6,5.6,-1
+"Dec 15, 2023",groin injury,"Dec 22, 2023",Left Back,24,75,6.8,6.5,6.7,0
+"Mar 28, 2024",cold,"Apr 1, 2024",Left Back,24,75,5.7,5.9,5.9,"0,333333333333333"
+"Apr 25, 2024",ankle injury,"Jun 4, 2024",Left Back,24,75,6,6.9,4.9,"1,33333333333333"
+"Sep 21, 2022",ankle injury,"Oct 26, 2022",Right Back,19,69,7,6.2,7,-1
+"Apr 15, 2024",hamstring injury,"Jun 11, 2024",Right Back,20,72,5.3(S),N.A.,N.A.,"7,66666666666667"
+"Mar 31, 2022",thigh problems,"May 16, 2022",Central Midfielder,24,80,6.3,6.1,5.6,2
+"Dec 14, 2021",broken foot,"Jan 6, 2022",Right winger,30,77,6.7,5.5,5.3,"0,833333333333333"
+"Apr 14, 2023",leg injury,"Apr 24, 2023",Defensive Midfielder,21,75,5.9,7,6.4,"-0,333333333333333"
+"Nov 11, 2023",calf injury,"Dec 8, 2023",Defensive Midfielder,22,77,6.1,6.9,6.2,"0,333333333333333"
+"Nov 12, 2022",back injury,"Feb 9, 2023",Defensive Midfielder,21,72,6,6.3,6.2,"-0,333333333333333"
+"Dec 11, 2023",muscle injury,"Jan 25, 2024",Left Back,38,75,6.1,6.7,6.8,"-2,33333333333333"
+"Nov 23, 2023",knee injury,"Nov 28, 2023",Center Forward,25,81,6(S),5.8(S),6(S),"-2,33333333333333"
