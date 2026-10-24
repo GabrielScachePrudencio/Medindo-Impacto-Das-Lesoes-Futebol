@@ -1,0 +1,182 @@
+Lista de tarefas
+PREVER O DESEMPENHO DO TIME 
+
+Passos na planilha (faça numa cópia):
+
+1. Criar Media_antes (média dos 3 before_injury_GD).
+2. Criar Media_durante (média dos 3 missed_match_GD).
+3. Criar Impacto_GD = Media_durante − Media_antes.
+4. Copiar Impacto_GD e colar como valores.
+5. Apagar as colunas das listas abaixo.
+6. Conferir se há linhas com GD vazio.
+
+
+
+
+
+Colunas a apagar após criar o target:
+
+- Match1_before_injury_GD
+- Match2_before_injury_GD
+- Match3_before_injury_GD
+- Match1_missed_match_GD
+- Match2_missed_match_GD
+- Match3_missed_match_GD
+- Media_antes
+- Media_durante
+
+- Match1/2/3_before_injury_Result
+- Match1/2/3_missed_match_Result porque o resultado vem direto do saldo de gols e entregaria a resposta (vazamento de dados)
+
+
+
+
+
+
+Colunas inúteis para o nosso projeto:
+
+Todas as colunas after_injury (12 colunas: Result, Opposition, GD e Player_rating dos 3 jogos), porque esses jogos acontecem depois e não entram na previsão
+Match1/2/3_before_injury_Opposition
+Match1/2/3_missed_match_Opposition
+- Team Name
+- Season
+- Name
+
+
+Colunas que talvez não sejam úteis para nós
+
+Date of Injury e Date of return: use só para calcular a duração da lesão e depois apague as datas.
+
+
+
+Organizando as colunas que permanecem na tabela final.
+
+- Impacto_GD
+- Position
+- Age
+- FIFA rating
+- Injury 
+- Match1_before_injury_Player_rating,
+- Match2_before_injury_Player_rating,
+- Match3_before_injury_Player_rating
+
+- Nova coluna: Fase_temporada, calculada a partir de Date of Injury. A Premier League vai de agosto a maio, então uma divisão simples por mês é:
+Fase	Meses
+Início	agosto a novembro
+Meio	dezembro a fevereiro
+Fim	março a julho
+
+=SE(A2="";"";SE(E(SE(ÉNUM(A2);MÊS(A2);VALOR(EXT.TEXTO(A2;6;2)))>=8;SE(ÉNUM(A2);MÊS(A2);VALOR(EXT.TEXTO(A2;6;2)))<=11);"Inicio";SE(OU(SE(ÉNUM(A2);MÊS(A2);VALOR(EXT.TEXTO(A2;6;2)))=12;SE(ÉNUM(A2);MÊS(A2);VALOR(EXT.TEXTO(A2;6;2)))<=2);"Meio";"Fim")))
+
+
+
+- Duracao_lesao (coluna nova: Date of return − Date of Injury, em dias)
+=SE(OU(A2="";C2="");"";SE(ÉNUM(C2);C2;DATA(VALOR(ESQUERDA(C2;4));VALOR(EXT.TEXTO(C2;6;2));VALOR(EXT.TEXTO(C2;9;2))))-SE(ÉNUM(A2);A2;DATA(VALOR(ESQUERDA(A2;4));VALOR(EXT.TEXTO(A2;6;2));VALOR(EXT.TEXTO(A2;9;2)))))
+
+
+
+. Agrupar Injury (corrigido: na tabela final fica injury_category, não Injury)
+=PROCV(I2;$mapa.$A$2:$B$101;2;0)
+mapa = mapa_categorias.ods
+
+Injury	Tipo_lesao
+Knee injury	Joelho
+Hamstring strain	Muscular_tendao
+Shoulder injury	Outras
+Groin injury	Muscular_tendao
+Calf injury	Muscular_tendao
+Ankle injury	Tornozelo_pe
+Cruciate ligament tear	Ligamento
+Hip injury	Outras
+Hand injury	Outras
+Hamstring injury	Muscular_tendao
+Bruised ribs	Pancada
+Knock	Pancada
+Muscle injury	Muscular_tendao
+Muscle fatigue	Muscular_tendao
+Foot injury	Tornozelo_pe
+Virus	Doenca
+Coronavirus	Doenca
+Knee problems	Joelho
+Ill	Doenca
+Calf problems	Muscular_tendao
+Ill & knock	Doenca
+Metatarsal fracture	Osso
+concussion	Pancada
+Outer ligament problems	Ligamento
+Thigh problems	Muscular_tendao
+unknown injury	Outras
+Groin surgery	Muscular_tendao
+Achilles tendon problems	Muscular_tendao
+Back injury	Outras
+Chest injury	Outras
+Cruciate ligament surgery	Ligamento
+ack injury	Outras
+Ligament stretching	Ligamento
+Arm injury	Outras
+Muscle strain	Muscular_tendao
+Fitness	Outras
+Torn muscle bundle	Muscular_tendao
+Head injury	Pancada
+Hip problems	Outras
+malaria	Doenca
+Dead leg	Pancada
+Ankle problems	Tornozelo_pe
+Knee surgery	Joelho
+Inner ligament injury	Ligamento
+muscular problems	Muscular_tendao
+Knee problems and Calf injury	Joelho
+Calf muscle tear	Muscular_tendao
+Cruciate ligament injury	Ligamento
+Calf strain	Muscular_tendao
+bruise	Pancada
+Tendon rupture	Muscular_tendao
+Achilles tendon rupture	Muscular_tendao
+minor knock	Pancada
+infection	Doenca
+Toe injury	Tornozelo_pe
+Neck injury	Outras
+Leg injury	Outras
+Tonsillitis	Doenca
+Back problems	Outras
+Shin injury	Outras
+Hip flexor problems	Muscular_tendao
+bronchitis	Doenca
+Torn knee ligaments	Ligamento
+Achilles tendon irritation	Muscular_tendao
+Shingles	Doenca
+Tendon irritation	Muscular_tendao
+Groin problems	Muscular_tendao
+abdominal problems	Muscular_tendao
+Meniscus injury	Joelho
+depression	Doenca
+Adductor injury	Muscular_tendao
+Adductor pain	Muscular_tendao
+Ligament injury	Ligamento
+cold	Doenca
+Injury to the ankle	Tornozelo_pe
+Ankle sprain	Tornozelo_pe
+Broken arm	Osso
+Facial fracture	Osso
+Inflammation bone	Osso
+Torn thigh muscle	Muscular_tendao
+Elbow injury	Outras
+Groin Strain	Muscular_tendao
+Quarantine	Doenca
+Unknown surgery	Outras
+Internal ligament tear	Ligamento
+Torn ankle ligaments	Ligamento
+Inflammation of pubic bone	Osso
+hairline fracture	Osso
+Bruise on ankle	Tornozelo_pe
+ankle and knee injury	Joelho
+broken foot	Osso
+broken ankle	Osso
+appendectomy and calf injury	Muscular_tendao
+groin surgery and elbow injury	Muscular_tendao
+unknown injur	Outras
+hamstring injury, archilles tendon rupture and inner ligament injury	Ligamento
+abdominal muscle strain	Muscular_tendao
+broken toe	Osso
+broken fibula	Osso
+stress reaction of the bone	Osso

@@ -1,0 +1,612 @@
+Impact_GD,Position,Age,Fase_temporada,FIFA rating,Match1_before_injury_Player_rating,Match2_before_injury_Player_rating,Match3_before_injury_Player_rating,Injury,Duracao_lesao,Injury_category
+"-0,666666666666667",Center Back,26,Inicio,77,7.4,6.1,5.8,Knee injury,65,Joelho
+"2,33333333333333",Center Back,28,Inicio,79,5.8,7.5,6.1,Knee injury,35,Joelho
+"2,33333333333333",Center Back,28,Meio,79,4.9,7.7,5.6,Hamstring strain,15,Muscular_tendao
+"1,66666666666667",Center Back,28,Fim,79,5.2,6.3,6.3,Shoulder injury,74,Outras
+-3,Center Back,28,Meio,75,5.8,6,6.2,Groin injury,19,Muscular_tendao
+-2,Center Back,30,Meio,75,6,6.4,6.4,Calf injury,32,Muscular_tendao
+"1,33333333333333",Center Back,30,Meio,75,6.3,7,5.6,Ankle injury,211,Tornozelo_pe
+"-4,33333333333333",Left Back,26,Inicio,77,6.7,6.5,6.3,Knee injury,13,Joelho
+1,Left Back,26,Meio,77,6,5.8,6.2,Knee injury,10,Joelho
+"-0,666666666666667",Left Back,26,Meio,77,5.8,6.3,6.1,Cruciate ligament tear,246,Ligamento
+1,Right Back,26,Inicio,74,5.6,7.3,5.6,Hip injury,13,Outras
+"2,66666666666667",Right Back,26,Meio,74,5.9,5.7,5.7,Hand injury,18,Outras
+"-2,16666666666667",Right Back,25,Meio,75,6.6,5.7,N.A.,Ankle injury,151,Tornozelo_pe
+-1,Right Back,25,Fim,75,6(S),6.1,6.6,Ankle injury,52,Tornozelo_pe
+"3,33333333333333",Right Back,26,Meio,75,6.1,5.2,N.A.,Hamstring strain,57,Muscular_tendao
+"-3,66666666666667",Defensive Midfielder,25,Fim,78,6.3,6.1,5.9,Hamstring strain,20,Muscular_tendao
+"0,333333333333333",Central Midfielder,22,Inicio,74,6.5,6,7.1,Ankle injury,27,Tornozelo_pe
+-4,Central Midfielder,22,Fim,74,6(S),7,N.A.,Hamstring injury,24,Muscular_tendao
+-4,Central Midfielder,28,Inicio,79,5.9,6.6,N.A.,Hamstring injury,13,Muscular_tendao
+-2,Central Midfielder,28,Meio,79,7.5,7.6,7.4,Calf injury,11,Muscular_tendao
+"-0,666666666666667",Central Midfielder,28,Meio,79,6,6.9,N.A.,Hamstring strain,41,Muscular_tendao
+"-0,666666666666667",Right Midfielder,30,Inicio,76,6,7,6.9,Ankle injury,128,Tornozelo_pe
+"-0,333333333333333",Left winger,23,Inicio,79,6.5,N.A.,N.A.,Hamstring strain,6,Muscular_tendao
+-2,Right winger,26,Meio,76,6.8,6.1,6.2,Hamstring injury,11,Muscular_tendao
+"1,66666666666667",Center Forward,30,Meio,75,5.8,5.7,6.3,Hamstring strain,8,Muscular_tendao
+"1,66666666666667",Center Forward,31,Inicio,74,6,5.7,5.7,Groin injury,12,Muscular_tendao
+2,Center Forward,31,Inicio,74,N.A.,N.A.,6.3,Bruised ribs,7,Pancada
+"0,333333333333333",Center Forward,31,Meio,74,N.A.,N.A.,5(S),Knock,152,Pancada
+"-4,16666666666667",Center Forward,31,Fim,74,6.4,6.4,N.A.,Muscle injury,11,Muscular_tendao
+"2,33333333333333",Center Back,27,Inicio,77,6.6,5.6,6.3,Hip injury,18,Outras
+1,Center Back,27,Inicio,77,6.4,6.1,6.3,Muscle fatigue,56,Muscular_tendao
+"0,333333333333333",Center Back,27,Meio,77,5.6,6.1,6.2,Hamstring strain,14,Muscular_tendao
+"2,66666666666667",Center Back,27,Fim,77,7.4,5.8,5.9,Foot injury,58,Tornozelo_pe
+"1,33333333333333",Center Back,29,Inicio,79,6.1,5.8,N.A.,Virus,26,Doenca
+-2,Center Back,29,Meio,79,7,6.5,5.4,Knee injury,77,Joelho
+"0,166666666666667",Center Back,31,Meio,76,6.4,6.6,5.4,Calf injury,10,Muscular_tendao
+"0,5",Center Back,31,Meio,76,6.2,6.5,N.A.,Knock,10,Pancada
+-2,Right Back,27,Meio,75,6.5,6.2,6.1,Ankle injury,31,Tornozelo_pe
+4,Defensive Midfielder,26,Inicio,78,N.A.,6.3,N.A.,Coronavirus,16,Doenca
+2,Defensive Midfielder,26,Fim,87,6.7,6.9,6.2,Knee injury,73,Joelho
+0,Central Midfielder,29,Inicio,78,5.9,7.1,6.7,Groin injury,32,Muscular_tendao
+0,Central Midfielder,29,Meio,78,5.8,N.A.,N.A.,Hamstring injury,13,Muscular_tendao
+0,Right Midfielder,31,Inicio,76,6,N.A.,N.A.,Shoulder injury,59,Outras
+"0,5",Left winger,24,Inicio,79,6.7,5.3,N.A.,Ankle injury,10,Tornozelo_pe
+1,Left winger,24,Inicio,79,6.2,6.1,5.9,Calf injury,61,Muscular_tendao
+"0,333333333333333",Left winger,24,Meio,79,6.1,7.4,7,Groin injury,35,Muscular_tendao
+"1,33333333333333",Right winger,27,Meio,76,6.1,5.7,6.2,Knee injury,15,Joelho
+1,Left Back,23,Meio,75,N.A.,5.9,N.A.,Knee problems,15,Joelho
+0,Left winger,27,Inicio,77,5.1,5.7,5.7,Hamstring injury,43,Muscular_tendao
+"1,66666666666667",Left winger,27,Fim,77,5.8,6.4,6.1,Groin injury,60,Muscular_tendao
+"-1,66666666666667",Center Forward,29,Inicio,79,5.7,7.8,5.2,Hamstring strain,19,Muscular_tendao
+-2,Center Forward,29,Meio,79,8.5,6.9,6.1,Hamstring injury,56,Muscular_tendao
+"0,666666666666667",Center Forward,29,Fim,79,5.7,5.5,8.1,Hamstring injury,17,Muscular_tendao
+0,Center Back,28,Meio,77,7,7,6.6,Ill,5,Doenca
+-1,Central Midfielder,25,Fim,79,6.4,7.7,6.6,Knock,8,Pancada
+"0,333333333333333",Central Midfielder,30,Inicio,77,7,N.A.,N.A.,Calf injury,61,Muscular_tendao
+"-2,33333333333333",Central Midfielder,30,Meio,77,7,6,7,Muscle injury,9,Muscular_tendao
+"-1,66666666666667",Central Midfielder,30,Fim,77,7,6,6,Calf problems,24,Muscular_tendao
+"-0,333333333333333",Left winger,25,Meio,79,8,9,5,Ill & knock,26,Doenca
+4,Central Midfielder,22,Meio,75,5.9,N.A.,5.4,Coronavirus,10,Doenca
+"2,33333333333333",Central Midfielder,22,Fim,75,6.9,6.5,5.9,Knee injury,6,Joelho
+"-1,66666666666667",Central Midfielder,22,Fim,75,6(S),6,5.1,Knee injury,24,Joelho
+"4,16666666666667",Left winger,28,Fim,77,5.5,5.8,N.A.,Hamstring injury,31,Muscular_tendao
+-1,Center Forward,30,Inicio,78,6.9,5.3,6.8,Hamstring injury,48,Muscular_tendao
+3,Center Forward,30,Meio,78,6(S),5.9,5.4,Calf injury,125,Muscular_tendao
+"-0,333333333333333",Right Back,31,Meio,81,7,7.3,7.5,Metatarsal fracture,77,Osso
+5,Center Forward,30,Fim,77,N.A.,6(S),5.6,Hip injury,11,Outras
+"-1,33333333333333",Center Back,31,Meio,80,6.7,6.4,5.5,concussion,6,Pancada
+"-0,333333333333333",Central Midfielder,26,Fim,80,6.4,6,6.3,Knock,9,Pancada
+"-1,66666666666667",Central Midfielder,25,Fim,77,5.8,7.3,6.2,Outer ligament problems,23,Ligamento
+"-0,333333333333333",Left winger,26,Inicio,79,7,9,7,Hamstring injury,37,Muscular_tendao
+"-3,33333333333333",Left winger,26,Inicio,79,6(S),N.A.,N.A.,Muscle injury,12,Muscular_tendao
+"-1,33333333333333",Left winger,26,Fim,79,5,8,7,Hamstring injury,29,Muscular_tendao
+"3,33333333333333",Right winger,29,Fim,78,6.2,5.5,7.6(S),Thigh problems,31,Muscular_tendao
+"-1,66666666666667",Central Midfielder,23,Fim,76,6.4,7,6.5,Hamstring injury,18,Muscular_tendao
+"-0,333333333333333",Center Forward,31,Inicio,79,6.8,5.1,6.9,Hamstring injury,35,Muscular_tendao
+-1,Defensive Midfielder,25,Inicio,81,7.8,6.8,5.8,Hamstring injury,22,Muscular_tendao
+-1,Defensive Midfielder,25,Meio,81,6.4,6.6,6.5,Ankle injury,19,Tornozelo_pe
+-1,Goalkeeper,31,Fim,83,7,6.1,6.5,Hand injury,28,Outras
+"2,33333333333333",Left winger,22,Fim,77,6.1(S),6.2(S),6.1,Ankle injury,22,Tornozelo_pe
+"2,66666666666667",Center Forward,23,Inicio,80,6.8,6.1,7.4,Thigh problems,,Muscular_tendao
+"-0,333333333333333",Center Back,30,Meio,76,4.9,7.5,6.1,unknown injury,9,Outras
+"-0,5",Center Back,32,Fim,82,7.8,5.8,5.9,Hamstring injury,18,Muscular_tendao
+"4,33333333333333",Central Midfielder,27,Inicio,82,6,6.8,6.3,Hamstring injury,32,Muscular_tendao
+0,Central Midfielder,27,Meio,82,7,7,5.6,Hamstring injury,9,Muscular_tendao
+"2,33333333333333",Central Midfielder,27,Meio,82,5.8(S),6.6,N.A.,Groin surgery,118,Muscular_tendao
+"0,666666666666667",Central Midfielder,26,Inicio,77,6.5,6.5,5.9,Ankle injury,27,Tornozelo_pe
+"0,666666666666667",Right winger,30,Fim,79,6.2(S),6.3,6.3(S),Knee injury,34,Joelho
+"0,666666666666667",Central Midfielder,24,Inicio,78,6(S),7(S),6.4,Achilles tendon problems,91,Muscular_tendao
+"1,33333333333333",Central Midfielder,24,Fim,78,6.4,6(S),6,Achilles tendon problems,44,Muscular_tendao
+"-2,33333333333333",Central Midfielder,18,Inicio,74,6.6,6.4,5,Back injury,125,Outras
+"-0,333333333333334",Center Forward,32,Inicio,82,7(S),6.7,7.3,Hamstring injury,13,Muscular_tendao
+"-2,33333333333333",Center Forward,32,Inicio,82,7,7.4,5.7,Hamstring injury,31,Muscular_tendao
+"-0,333333333333333",Center Forward,32,Meio,82,6.2,6.4,6(S),Calf injury,37,Muscular_tendao
+"-0,5",Center Forward,32,Meio,82,6(S),5.7,N.A.,Chest injury,64,Outras
+"-3,5",Center Forward,32,Fim,82,6(S),7(S),7.1,Ill,11,Doenca
+-1,Center Back,32,Inicio,78,6.7,6.2,6.3,Back injury,37,Outras
+"-0,5",Right Back,33,Meio,85,N.A.,6.8,7,Groin injury,10,Muscular_tendao
+0,Right Back,33,Fim,85,6,5.2,6.2,Calf injury,69,Muscular_tendao
+"-2,66666666666667",Center Back,24,Inicio,83,7.4,6.7,6.4,Ankle injury,19,Tornozelo_pe
+"-2,5",Center Back,24,Inicio,83,7.1,8.5,N.A.,Knee injury,78,Joelho
+1,Center Back,24,Fim,83,4.3,6.7,6.2,Cruciate ligament surgery,257,Ligamento
+1,Central Midfielder,18,Fim,70,5.9,6(S),6(S),ack injury,56,Outras
+"1,33333333333333",Left winger,23,Fim,80,7,7,8.4,Ankle injury,12,Tornozelo_pe
+"-2,33333333333333",Center Forward,24,Inicio,83,6.9,8.7,5.4(S),Groin injury,30,Muscular_tendao
+"0,666666666666667",Center Forward,24,Meio,83,7.8,7.1,5.7,Groin injury,24,Muscular_tendao
+1,Right Back,21,Meio,74,N.A.,6(S),5.8,Ill,8,Doenca
+"-0,5",Right Back,21,Fim,74,7.5(S),5.9,6,Ankle injury,32,Tornozelo_pe
+"-1,83333333333333",Right Back,21,Fim,74,7.1,6.5,6.9,Ankle injury,13,Tornozelo_pe
+"-0,333333333333334",Left winger,26,Inicio,80,5.7(S),6.3,6,Foot injury,130,Tornozelo_pe
+-1,Left winger,26,Fim,80,6.4,5.5(S),6(S),Hamstring injury,28,Muscular_tendao
+"-1,33333333333333",Center Back,32,Meio,82,6.7,5.6,5.5,concussion,6,Pancada
+"-1,66666666666667",Goalkeeper,32,Meio,84,8.1,6.3,6.3,Shoulder injury,152,Outras
+"3,66666666666667",Goalkeeper,28,Fim,83,8.5,7.5,6.5,Ligament stretching,67,Ligamento
+"0,666666666666667",Center Back,27,Inicio,80,6(S),6(S),6.8,Hamstring injury,13,Muscular_tendao
+0,Center Back,27,Meio,80,5.7,N.A.,N.A.,Arm injury,112,Outras
+-1,Center Back,27,Meio,80,5.9,6.7,N.A.,Muscle strain,31,Muscular_tendao
+"0,333333333333333",Center Back,27,Meio,90,6.2,7.2,5.4,Ankle injury,14,Tornozelo_pe
+"-0,666666666666667",Center Back,32,Meio,83,6.6,5.7,6.8,concussion,3,Pancada
+2,Center Back,25,Meio,75,5.1,8.7,7.4,Cruciate ligament tear,315,Ligamento
+"-0,666666666666667",Center Back,28,Meio,81,7.4,7.4,6.8,Muscle strain,15,Muscular_tendao
+-1,Left Back,23,Meio,75,6.1,5.6,6.3,Shoulder injury,96,Outras
+-2,Left Back,23,Inicio,75,7.1,N.A.,N.A.,Groin injury,14,Muscular_tendao
+-2,Left Back,23,Meio,75,6.3,9.2,8,Knee injury,28,Joelho
+"1,33333333333333",Left Back,23,Fim,75,7.1,6.1,6.9,Knee injury,32,Joelho
+"0,666666666666667",Right Back,25,Meio,81,6,6.3,5.9,Hamstring injury,39,Muscular_tendao
+-1,Defensive Midfielder,24,Fim,83,6.2,N.A.,N.A.,Ankle injury,122,Tornozelo_pe
+0,Defensive Midfielder,27,Inicio,83,7.1,N.A.,N.A.,Back injury,11,Outras
+"-3,33333333333333",Defensive Midfielder,27,Meio,83,6.9,6.1,6.3,concussion,8,Pancada
+"-0,666666666666667",Defensive Midfielder,27,Fim,83,7,6.7,6,Ankle injury,6,Tornozelo_pe
+"4,66666666666667",Central Midfielder,21,Fim,74,N.A.,6.2,6.4,Fitness,104,Outras
+"-0,333333333333333",Central Midfielder,23,Inicio,80,6.5,6.4,6.9,Torn muscle bundle,54,Muscular_tendao
+1,Attacking Midfielder,31,Meio,85,6.8,6.7,5.9,Ankle injury,10,Tornozelo_pe
+"0,666666666666667",Left winger,19,Meio,72,7.2,6.7,5.8,Hamstring injury,14,Muscular_tendao
+"1,5",Right winger,25,Fim,81,7.1,5.8,N.A.,Muscle fatigue,4,Muscular_tendao
+"-0,333333333333333",Right winger,20,Meio,73,5.7,5.8,6(S),Hamstring injury,46,Muscular_tendao
+"-0,166666666666667",Center Forward,29,Inicio,85,7.1,N.A.,7.8,Ankle injury,48,Tornozelo_pe
+"0,666666666666667",Center Back,29,Fim,80,6.3,6.6,6.9,Muscle injury,97,Muscular_tendao
+"1,33333333333333",Center Back,33,Inicio,82,6.7,6.6,6.8,Hamstring injury,8,Muscular_tendao
+2,Center Back,33,Meio,82,6.2,6.5,N.A.,Ill,7,Doenca
+"-0,5",Center Back,33,Meio,82,5.3,N.A.,N.A.,Head injury,7,Pancada
+"-1,66666666666667",Center Back,25,Inicio,74,7.3,7,5.7,Hamstring injury,60,Muscular_tendao
+"2,66666666666667",Center Back,27,Fim,75,7.1,5.8,N.A.,Ankle injury,171,Tornozelo_pe
+"-0,666666666666667",Center Back,27,Meio,75,5.6,7,7.4,Calf injury,25,Muscular_tendao
+"-3,33333333333333",Defensive Midfielder,28,Fim,83,5.9,7.5,6.7,Ill,3,Doenca
+"1,16666666666667",Defensive Midfielder,28,Fim,83,7.6,7.3,7.8,Groin injury,10,Muscular_tendao
+0,Central Midfielder,24,Meio,80,6(S),8.4,7.2,Calf injury,17,Muscular_tendao
+"-0,666666666666667",Left winger,20,Meio,72,6(S),5.7,5.5,Ankle injury,8,Tornozelo_pe
+"-1,66666666666667",Right winger,19,Meio,72,7,8.3,7.9,Hip problems,3,Outras
+0,Center Forward,32,Meio,87,5.4,6.1,6.9,Calf injury,11,Muscular_tendao
+"-1,33333333333333",Center Forward,32,Meio,87,6.3,6.7,8,Knock,14,Pancada
+"1,66666666666667",Center Forward,32,Fim,87,6.8,6,5.9,malaria,18,Doenca
+"0,5",Center Forward,29,Fim,84,5.7,8.8,6.2,Dead leg,18,Pancada
+"1,66666666666667",Center Back,23,Meio,80,7,6.3,6.2,Coronavirus,18,Doenca
+"0,5",Defensive Midfielder,28,Inicio,84,6.4,8.1,6.3,Muscle injury,24,Muscular_tendao
+"1,33333333333333",Defensive Midfielder,28,Meio,84,6.3,N.A.,N.A.,Hip injury,39,Outras
+"1,16666666666667",Defensive Midfielder,28,Meio,84,6.5,6.7,6.3,Hamstring injury,18,Muscular_tendao
+1,Defensive Midfielder,28,Inicio,76,6.9,6.3,N.A.,Virus,12,Doenca
+"2,16666666666667",Attacking Midfielder,22,Fim,75,7.7,7.8,5.8,Ankle injury,15,Tornozelo_pe
+"-0,333333333333333",Left winger,32,Inicio,85,5.8,6.1,5.8,Calf injury,5,Muscular_tendao
+"2,83333333333333",Left winger,32,Meio,85,7,7.4,6.3,Ill,7,Doenca
+"1,33333333333333",Left Back,25,Inicio,79,6.7,5.9,6.4,Ankle problems,16,Tornozelo_pe
+-2,Left Back,25,Fim,79,6.6,6,6.7,Knee surgery,98,Joelho
+"-1,33333333333333",Defensive Midfielder,29,Inicio,83,7.1,N.A.,N.A.,Inner ligament injury,69,Ligamento
+0,Center Forward,31,Fim,84,6.2,5.7,5.4,Coronavirus,5,Doenca
+"1,33333333333333",Defensive Midfielder,29,Fim,84,7.1,7,5.8,Knock,112,Pancada
+0,Right Back,24,Fim,76,6.8,6.3,6.1,Hamstring injury,20,Muscular_tendao
+"2,33333333333333",Right Back,23,Meio,78,6.4,N.A.,N.A.,Calf injury,60,Muscular_tendao
+"1,66666666666667",Left winger,22,Fim,81,5.8(S),7.3,5.5,Ankle injury,18,Tornozelo_pe
+0,Center Forward,24,Fim,75,7,5.5(S),6.9(S),Ankle injury,42,Tornozelo_pe
+"-0,666666666666667",Center Back,22,Fim,82,6.7,7,7.8,Back injury,107,Outras
+"-2,33333333333333",Defensive Midfielder,30,Inicio,85,7.6,6.6,7.2,Thigh problems,21,Muscular_tendao
+"-0,333333333333333",Defensive Midfielder,30,Inicio,77,6.7,N.A.,N.A.,Thigh problems,66,Muscular_tendao
+"-1,33333333333333",Defensive Midfielder,30,Meio,77,N.A.,N.A.,5.6(S),Knee injury,249,Joelho
+"-0,5",Right Back,24,Inicio,79,6,7,6.5,muscular problems,12,Muscular_tendao
+0,Right Back,24,Fim,79,N.A.,6.8,6(S),Knee surgery,107,Joelho
+"-0,666666666666667",Left Back,26,Inicio,82,7.7,6.9,7,Knee problems and Calf injury,67,Joelho
+-2,Left Back,26,Fim,82,6.5,7,6.6,unknown injury,3,Outras
+0,Left Back,26,Fim,82,5.6,7,6.8,Calf muscle tear,103,Muscular_tendao
+"-1,33333333333333",Center Forward,26,Meio,85,9.7,7.3,6.5,Knee injury,99,Joelho
+1,Left winger,23,Inicio,83,7,7.2,5.7,Hamstring injury,20,Muscular_tendao
+"-3,66666666666667",Left winger,23,Fim,83,6.4,7.4,8.2,Foot injury,24,Tornozelo_pe
+"-0,333333333333334",Right winger,22,Fim,86,6.7,6.8,5.5,unknown injury,16,Outras
+"-0,666666666666667",Right winger,22,Inicio,86,7.1,7.9,7.5,Thigh problems,18,Muscular_tendao
+"0,333333333333333",Defensive Midfielder,31,Inicio,84,7.6,7.6,6.9,Groin injury,31,Muscular_tendao
+"-1,16666666666667",Attacking Midfielder,25,Inicio,88,8.5,6.7,6,Hip problems,19,Outras
+"0,666666666666667",Right Back,26,Inicio,82,6.1,6.9,6.3,Knee injury,11,Joelho
+"-0,666666666666667",Right Back,25,Meio,78,6.7,7.4,7.1,Calf injury,108,Muscular_tendao
+-1,Left Back,27,Meio,80,7.8,6.8,6.5,Calf problems,19,Muscular_tendao
+"0,333333333333333",Center Forward,27,Inicio,82,6.7,6.5,5.7,Hamstring injury,26,Muscular_tendao
+"2,66666666666667",Center Forward,27,Meio,82,6(S),7.5,7.9,Knee injury,13,Joelho
+0,Center Back,28,Meio,75,5.3,5.7,6.8,Muscle strain,22,Muscular_tendao
+-2,Right winger,24,Meio,75,5.8,7,6.2,Knee injury,5,Joelho
+"-1,83333333333333",Left Back,24,Fim,75,6.3,6.6,7.1,Muscle strain,13,Muscular_tendao
+"-0,666666666666667",Left Back,24,Meio,75,6,6.7,6.2,Hamstring injury,17,Muscular_tendao
+"-1,66666666666667",Left winger,24,Inicio,80,5.8,9.5,8.2,Calf injury,28,Muscular_tendao
+"2,66666666666667",Left Back,31,Fim,70,6.7,6.3,7.1,Hamstring injury,12,Muscular_tendao
+"1,33333333333333",Center Back,25,Inicio,76,5.8,4.7,6.1,Groin injury,27,Muscular_tendao
+0,Goalkeeper,34,Meio,83,5.9,7.8,6.3,Cruciate ligament injury,311,Ligamento
+0,Goalkeeper,34,Inicio,83,6,7,6.3,Calf strain,15,Muscular_tendao
+"-0,666666666666667",Right Back,24,Meio,77,6,6.7,5.5,Hamstring injury,,Muscular_tendao
+"1,83333333333333",Center Back,23,Meio,77,6.4,6.4,7.3,bruise,12,Pancada
+"-1,83333333333333",Center Back,25,Meio,74,N.A.,6.4,7.4,Ankle injury,92,Tornozelo_pe
+5,Right winger,24,Inicio,76,5.2,5.6(S),N.A.,Bruised ribs,18,Pancada
+"-0,666666666666667",Central Midfielder,23,Inicio,76,6.1,6.5,6.2,Hamstring injury,31,Muscular_tendao
+"0,333333333333333",Left winger,26,Meio,75,6.4,6.3,6.8,Head injury,51,Pancada
+"-0,666666666666667",Central Midfielder,26,Fim,77,6.6,5.9,6(S),Knee problems,142,Joelho
+0,Central Midfielder,27,Inicio,78,7.7,6.7,6.5,Hamstring injury,59,Muscular_tendao
+"-0,666666666666667",Goalkeeper,29,Fim,84,6.6,6.3,6.8,Knee problems,9,Joelho
+"-1,16666666666667",Center Back,24,Fim,79,6,6.1,N.A.,Knee injury,56,Joelho
+1,Left Back,28,Fim,84,6.5,N.A.,6.2,Shoulder injury,16,Outras
+-4,Left Back,28,Fim,84,N.A.,7.2,N.A.,Hamstring injury,7,Muscular_tendao
+0,Right winger,24,Meio,81,5.8,6.1,6(S),Thigh problems,67,Muscular_tendao
+"0,666666666666667",Defensive Midfielder,25,Meio,75,5.7,6.2,6.2,Knee injury,110,Joelho
+"-0,333333333333333",Central Midfielder,27,Fim,76,6.6,5.9,6(S),Knock,28,Pancada
+-1,Central Midfielder,27,Inicio,76,6.2,N.A.,N.A.,Ill,7,Doenca
+3,Central Midfielder,27,Meio,76,6(S),N.A.,N.A.,Coronavirus,13,Doenca
+"0,333333333333334",Right Back,25,Fim,79,7.4,6.1,6.9,Calf injury,35,Muscular_tendao
+"1,83333333333333",Right Back,25,Inicio,79,5.9,6.5,5.6,Tendon rupture,25,Muscular_tendao
+1,Center Back,30,Inicio,82,5.6,N.A.,N.A.,Achilles tendon rupture,213,Muscular_tendao
+"-0,5",Central Midfielder,28,Meio,78,N.A.,6.1,6(S),Hamstring strain,34,Muscular_tendao
+"1,5",Left Back,29,Meio,82,6.2,6.3,6.5,Shoulder injury,20,Outras
+"0,333333333333333",Left Back,29,Inicio,82,6.6,6.2,5.9,Ankle injury,40,Tornozelo_pe
+"0,5",Left Back,31,Fim,80,N.A.,6.2,6,Hamstring injury,118,Muscular_tendao
+"0,333333333333333",Attacking Midfielder,22,Inicio,76,5.4,7.4,5.7(S),Hamstring injury,46,Muscular_tendao
+"1,33333333333333",Defensive Midfielder,23,Fim,80,6.6,6.9,7,Ankle injury,6,Tornozelo_pe
+"0,333333333333333",Defensive Midfielder,23,Inicio,80,6.3,6,6.9,Knee injury,46,Joelho
+"-2,83333333333333",Defensive Midfielder,26,Fim,79,6.2(S),6.7,5.5,Calf injury,31,Muscular_tendao
+"0,666666666666667",Right Back,26,Fim,79,6(S),5.6,6.4,Hamstring injury,22,Muscular_tendao
+"0,5",Right Back,26,Meio,79,N.A.,7.4,6,Ill,2,Doenca
+"-0,166666666666667",Center Back,31,Meio,81,6.2,7.2,N.A.,Hamstring injury,20,Muscular_tendao
+"0,333333333333333",Center Back,26,Meio,80,6.8,6,6.5,Knee injury,26,Joelho
+"-1,66666666666667",Central Midfielder,27,Fim,81,6.7,7.6,7.5,Groin injury,44,Muscular_tendao
+"-0,666666666666667",Central Midfielder,27,Meio,81,5.9,6.7,7.2,Calf injury,30,Muscular_tendao
+"-0,5",Left Back,30,Meio,79,6.4,N.A.,6.3,Hamstring injury,42,Muscular_tendao
+0,Center Back,27,Meio,82,6(S),N.A.,N.A.,Ankle injury,30,Tornozelo_pe
+0,Center Back,27,Meio,82,6.3,6.7,5.6,unknown injury,5,Outras
+"0,833333333333333",Left Back,31,Fim,80,N.A.,5.5(S),6.4,minor knock,46,Pancada
+1,Center Forward,20,Inicio,68,N.A.,5(S),5(S),infection,2,Doenca
+1,Center Forward,20,Inicio,68,N.A.,5(S),5(S),infection,9,Doenca
+"1,33333333333333",Center Forward,20,Meio,68,N.A.,6.1(S),N.A.,Hamstring injury,43,Muscular_tendao
+"1,16666666666667",Attacking Midfielder,21,Fim,67,6.8,7.3,7.3,Hamstring injury,26,Muscular_tendao
+"-4,66666666666667",Right winger,26,Fim,80,7,5.9,5.6,Ill,13,Doenca
+"-3,33333333333333",Attacking Midfielder,23,Inicio,78,7.3(S),N.A.,N.A.,Foot injury,51,Tornozelo_pe
+-1,Attacking Midfielder,23,Meio,78,N.A.,6.3,5.7,Hamstring injury,16,Muscular_tendao
+"-1,33333333333333",Attacking Midfielder,23,Fim,78,7.2,6.2,6.4,Toe injury,,Tornozelo_pe
+"-0,333333333333333",Defensive Midfielder,24,Meio,80,6.6,5.6,7.2,Knee injury,,Joelho
+"2,33333333333333",Attacking Midfielder,32,Inicio,79,5,6(S),N.A.,Hamstring injury,36,Muscular_tendao
+-3,Center Back,27,Fim,80,6.7,6.8,6.6,Ankle injury,35,Tornozelo_pe
+-2,Center Back,28,Inicio,80,7.4,7.9,7,Calf injury,20,Muscular_tendao
+-2,Center Back,28,Meio,80,6.4,6.2,N.A.,Chest injury,13,Outras
+"-0,5",Center Back,28,Fim,80,6.2,5.6,6.1,Knee problems,7,Joelho
+"0,333333333333333",Center Back,29,Inicio,80,6.4(S),5.4,6.7,Hamstring injury,29,Muscular_tendao
+-2,Center Back,25,Meio,78,5.9,6.6,6.3,Ill,5,Doenca
+"-0,666666666666667",Center Back,26,Meio,78,6.4,6.8,6.8,Back injury,10,Outras
+"-0,666666666666667",Center Back,26,Meio,78,6.2,7,5.6(S),Coronavirus,10,Doenca
+0,Center Back,27,Meio,78,6.5,6.7,N.A.,Ill,7,Doenca
+"-1,66666666666667",Center Back,26,Fim,77,5.2,5.6,6.1,Neck injury,5,Outras
+"0,666666666666667",Center Back,27,Inicio,77,6.1(S),4.4,5.1,Muscle injury,44,Muscular_tendao
+"-1,5",Center Back,27,Meio,77,5.1(S),4.2,6.3,Knock,63,Pancada
+"1,66666666666667",Center Back,27,Fim,77,6.8,N.A.,N.A.,Coronavirus,20,Doenca
+"-0,833333333333333",Center Back,28,Meio,77,6.5(S),4.4,N.A.,Ankle injury,13,Tornozelo_pe
+"0,333333333333333",Center Back,22,Inicio,73,4.4(S),5.8,6.7,Hip injury,35,Outras
+"0,5",Center Back,22,Meio,73,4.6,5.2(S),N.A.,Hamstring strain,78,Muscular_tendao
+"-3,33333333333333",Center Back,24,Fim,73,4.6,N.A.,N.A.,unknown injury,194,Outras
+4,Center Back,28,Fim,70,4.4(S),N.A.,N.A.,Knee injury,454,Joelho
+"-1,33333333333333",Left Back,24,Inicio,83,7.2,7.5,6.1(S),Hamstring injury,44,Muscular_tendao
+"-0,666666666666667",Left Back,24,Inicio,83,7.2,7.5,6.1(S),Muscle injury,40,Muscular_tendao
+"-0,666666666666667",Left Back,25,Fim,83,5.2,6.8,5.6,Ankle injury,59,Tornozelo_pe
+1,Left Back,25,Inicio,83,6.8,6.8,7.5(S),Hamstring injury,30,Muscular_tendao
+"1,33333333333333",Left Back,26,Inicio,83,6.9,5(S),5(S),Head injury,17,Pancada
+"0,5",Left Back,26,Meio,83,7.4,5.6,N.A.,Hamstring injury,13,Muscular_tendao
+"-2,33333333333333",Left Back,26,Fim,83,6.9,5.2,5.4(S),Coronavirus,14,Doenca
+"-1,33333333333333",Left Back,26,Fim,83,5.6,N.A.,N.A.,Leg injury,41,Outras
+"2,33333333333333",Left Back,27,Fim,83,4.2,7,5.3(S),unknown injury,13,Outras
+0,Left Back,19,Fim,72,6.4(S),6.2(S),6,Head injury,4,Pancada
+"-0,166666666666667",Right Back,22,Inicio,80,7.6,6.3,6.6,Tonsillitis,22,Doenca
+"2,66666666666667",Right Back,23,Inicio,80,6,6.1,6,Hand injury,5,Outras
+"0,5",Right Back,23,Meio,80,6.3,6.4(S),N.A.,Ill,9,Doenca
+"-1,66666666666667",Right Back,24,Inicio,80,6(S),N.A.,N.A.,Back problems,43,Outras
+"0,666666666666667",Defensive Midfielder,31,Inicio,80,6.6(S),6.4(S),6.4(S),unknown injury,52,Outras
+"0,666666666666667",Defensive Midfielder,32,Meio,80,7.1,6.5,6(S),Shin injury,8,Outras
+"-0,166666666666667",Central Midfielder,27,Inicio,85,6.7,6.9,6.4,Ankle problems,84,Tornozelo_pe
+"0,333333333333333",Central Midfielder,27,Meio,85,6.6,N.A.,N.A.,Ankle problems,165,Tornozelo_pe
+"0,666666666666667",Central Midfielder,28,Inicio,85,6.7(S),6,6(S),Ankle injury,17,Tornozelo_pe
+1,Central Midfielder,28,Meio,85,7.6,6,6(S),Hamstring injury,42,Muscular_tendao
+3,Central Midfielder,28,Inicio,85,6.3(S),6.3(S),6,Hamstring injury,87,Muscular_tendao
+"1,66666666666667",Central Midfielder,28,Fim,85,6.3(S),6,6,Calf injury,35,Muscular_tendao
+-1,Central Midfielder,23,Inicio,79,7.4,5.6,7.9,Knee injury,23,Joelho
+1,Central Midfielder,23,Meio,79,7.2,6.4(S),6.1(S),Knee injury,57,Joelho
+"0,333333333333333",Central Midfielder,24,Inicio,79,6.5,6.7,7.1,bruise,9,Pancada
+-1,Central Midfielder,24,Meio,79,8.3,7.9,7.1,Knock,8,Pancada
+"-0,5",Central Midfielder,24,Inicio,79,6,6.2(S),N.A.,Groin injury,21,Muscular_tendao
+"0,333333333333333",Central Midfielder,25,Fim,79,6,6.6,6.6,Foot injury,12,Tornozelo_pe
+1,Central Midfielder,26,Meio,79,6.2,6(S),6.9,unknown injury,22,Outras
+"0,666666666666667",Central Midfielder,26,Fim,79,6(S),6.1,6.4(S),unknown injury,32,Outras
+-1,Central Midfielder,27,Meio,79,6,6,6,Coronavirus,7,Doenca
+"-1,66666666666667",Central Midfielder,27,Fim,79,6.2,6,6,Hip flexor problems,21,Muscular_tendao
+"1,33333333333333",Attacking Midfielder,25,Fim,88,6,0,5.8,Ill,2,Doenca
+"1,33333333333333",Attacking Midfielder,27,Inicio,78,6.2(S),5.7(S),6.1(S),Ill,11,Doenca
+"0,5",Attacking Midfielder,27,Inicio,78,5.5(S),5.5(S),N.A.,Hamstring injury,19,Muscular_tendao
+3,Attacking Midfielder,27,Meio,78,6.7(S),6.1,5.7(S),Ill,5,Doenca
+"-1,33333333333333",Attacking Midfielder,32,Meio,78,6,N.A.,N.A.,Muscle injury,37,Muscular_tendao
+"-2,66666666666667",Left winger,22,Meio,85,7.5,5.8,9,Back injury,141,Outras
+0,Left winger,24,Meio,85,6,6.9,7,Dead leg,4,Pancada
+"-0,5",Left winger,24,Fim,85,5.8,6,5.3,bronchitis,15,Doenca
+"1,66666666666667",Left winger,24,Fim,85,6,6.2,6.7,Muscle injury,11,Muscular_tendao
+"1,83333333333333",Left winger,25,Fim,85,5.9,6.5,6.6,Leg injury,13,Outras
+"-1,66666666666667",Right winger,18,Inicio,78,6.1(S),5.5(S),5.1(S),Tonsillitis,3,Doenca
+4,Right winger,19,Inicio,78,7.6,5.5,6.2(S),bruise,37,Pancada
+0,Right winger,20,Inicio,78,6.9,6.5,5.9,Coronavirus,8,Doenca
+"-1,66666666666667",Right winger,22,Meio,77,6.1(S),6.7,6.5,Knock,8,Pancada
+-1,Right winger,23,Fim,77,6,6.4(S),6,unknown injury,21,Outras
+"-1,33333333333333",Center Forward,24,Inicio,79,6.9(S),6.4,6.7,Hamstring strain,56,Muscular_tendao
+"0,333333333333334",Center Forward,25,Fim,79,6.2(S),6,5.6(S),Torn knee ligaments,126,Ligamento
+"-4,83333333333333",Center Forward,26,Inicio,79,6,6.2,7.4(S),Fitness,14,Outras
+2,Center Forward,26,Meio,79,7,7.2,N.A.,Knee injury,9,Joelho
+"0,333333333333333",Center Forward,27,Inicio,79,6.1,N.A.,N.A.,Achilles tendon irritation,34,Muscular_tendao
+1,Center Forward,27,Inicio,79,6.9,6.7,N.A.,Back injury,21,Outras
+"-0,666666666666667",Center Forward,27,Meio,79,7.3,7.4,6.9(S),Hip injury,34,Outras
+"-1,66666666666667",Central Midfielder,30,Fim,77,6(S),6.5,6(S),Muscle injury,14,Muscular_tendao
+"1,33333333333333",Central Midfielder,32,Inicio,77,6,6.2,6.2,Shingles,51,Doenca
+"-0,833333333333333",Center Forward,34,Meio,81,6(S),9.2(S),6,Knock,12,Pancada
+-2,Center Forward,34,Meio,81,9.2,6.2,6(S),Muscle injury,14,Muscular_tendao
+"1,5",Center Forward,34,Fim,81,6.2,6(S),5.8(S),Knock,16,Pancada
+-1,Center Forward,35,Inicio,81,6.5,6.2,6,Tendon irritation,48,Muscular_tendao
+1,Center Forward,35,Meio,81,6.2,6.4,5.6,Groin problems,24,Muscular_tendao
+-1,Center Forward,35,Fim,81,5.6,N.A.,N.A.,Calf injury,29,Muscular_tendao
+"-3,5",Center Back,30,Inicio,85,7.2,6.2,6.4,Groin injury,15,Muscular_tendao
+"-2,33333333333333",Center Back,30,Inicio,85,6.2,6.4,6.2,Hamstring injury,50,Muscular_tendao
+"1,66666666666667",Center Back,30,Meio,85,7.2,6.4,6.3,abdominal problems,4,Muscular_tendao
+"-1,66666666666667",Center Back,30,Fim,85,6.5,6.2,6.9,muscular problems,18,Muscular_tendao
+"-0,666666666666667",Center Back,31,Inicio,85,6(S),6.9,6.6(S),Leg injury,23,Outras
+"1,33333333333333",Center Back,31,Fim,85,6.5,6,7.3,Foot injury,24,Tornozelo_pe
+"-0,333333333333333",Center Forward,39,Meio,90,8,7,7,Hip flexor problems,7,Muscular_tendao
+"-4,33333333333333",Center Forward,39,Fim,90,7,6,7,Hip flexor problems,4,Muscular_tendao
+"0,666666666666667",Center Back,28,Fim,84,6.7(S),7.8,7.4,Metatarsal fracture,77,Osso
+1,Central Midfielder,33,Meio,83,5.7(S),6,6.3,Ankle injury,67,Tornozelo_pe
+"0,666666666666667",Central Midfielder,32,Fim,81,6,6.9,7,unknown injury,8,Outras
+"1,66666666666667",Central Midfielder,32,Fim,81,6.1,6.4,6.4(S),Groin problems,3,Muscular_tendao
+"2,33333333333333",Central Midfielder,32,Fim,81,6.3,7,6.3(S),Meniscus injury,36,Joelho
+"-0,333333333333333",Left winger,19,Fim,82,N.A.,5,6.6,Tonsillitis,12,Doenca
+"1,66666666666667",Left winger,20,Meio,82,6,6,5.9(S),depression,36,Doenca
+"-0,666666666666667",Goalkeeper,26,Inicio,80,6.9,6.3,6.5,Knee injury,102,Joelho
+0,Center Back,24,Fim,76,8.1,6(S),7,Hamstring injury,53,Muscular_tendao
+1,Center Back,26,Meio,76,5.5(S),5.1,5.9,Foot injury,45,Tornozelo_pe
+2,Center Back,26,Fim,76,7.6,6.7,5.6,Calf strain,14,Muscular_tendao
+"-1,66666666666667",Center Back,29,Meio,79,6,5.6,6.9,Ankle injury,63,Tornozelo_pe
+"-0,666666666666667",Left Back,24,Inicio,75,5.6,6.2,6,Knee injury,385,Joelho
+3,Defensive Midfielder ,30,Meio,77,6.9(S),7.1,6.3(S),Foot injury,25,Tornozelo_pe
+"0,666666666666667",Defensive Midfielder ,30,Fim,77,6.8,7.5,5.7(S),Back injury,38,Outras
+-1,Defensive Midfielder ,24,Fim,76,5.6(S),7.5(S),5.8(S),Knee injury,22,Joelho
+"-3,33333333333333",Central Midfielder,23,Inicio,73,6.1(S),N.A.,N.A.,Hamstring injury,138,Muscular_tendao
+-4,Central Midfielder,23,Meio,73,6.1(S),N.A.,N.A.,Ankle injury,115,Tornozelo_pe
+-1,Central Midfielder,23,Meio,73,6.1(S),6(S),N.A.,Knee surgery,404,Joelho
+"1,33333333333333",Central Midfielder,24,Fim,73,6(S),6.2(S),6.1(S),Ankle injury,52,Tornozelo_pe
+"-1,16666666666667",Central Midfielder,25,Fim,73,5.6,5.6,N.A.,Thigh problems,15,Muscular_tendao
+1,Central Midfielder,24,Inicio,70,5.6(S),N.A.,N.A.,Shoulder injury,78,Outras
+"-0,333333333333333",Attacking Midfielder,28,Fim,71,5.8(S),5.6(S),5.4(S),Coronavirus,7,Doenca
+"-1,66666666666667",Right winger,22,Meio,80,6,8.2,5.4(S),Ankle injury,96,Tornozelo_pe
+"0,333333333333333",Center Forward,25,Inicio,79,5.9(S),6,5.7(S),Ankle injury,77,Tornozelo_pe
+"-0,5",Center Back,33,Inicio,79,6.1,5.6,N.A.,Muscle injury,24,Muscular_tendao
+"1,33333333333333",Center Back,33,Meio,79,5.2,5.8,5.6,Ankle injury,125,Tornozelo_pe
+"1,66666666666667",Right Back,21,Inicio,76,6.8,6.5(S),6.1(S),Ankle injury,82,Tornozelo_pe
+"-1,33333333333333",Right Back,22,Inicio,76,5.7(S),5.1,5.6,Hamstring injury,517,Muscular_tendao
+"-0,666666666666667",Left winger,21,Inicio,72,6(S),6(S),5.8(S),Adductor injury,200,Muscular_tendao
+"-1,83333333333333",Left winger,22,Inicio,73,6.1(S),6(S),N.A.,Knee surgery,67,Joelho
+"-0,833333333333333",Left winger,22,Inicio,73,6.1(S),6(S),N.A.,Adductor pain,32,Muscular_tendao
+"-0,666666666666667",Left winger,22,Fim,73,5.1(S),5.4,5.1(S),Knee injury,58,Joelho
+-5,Left winger,22,Inicio,73,6.6(S),5.1(S),5.2,Fitness,20,Outras
+"-3,33333333333333",Left winger,22,Inicio,73,6.6(S),5.1(S),5.2,Ligament injury,35,Ligamento
+0,Goalkeeper,31,Inicio,79,5.7,6,6.3,cold,16,Doenca
+0,Center Back,23,Inicio,75,7.5,7.8,6.7,Injury to the ankle,27,Tornozelo_pe
+-2,Center Back,23,Fim,75,6.7,7.2,6.2,unknown injury,40,Outras
+"-2,33333333333333",Center Forward,27,Erro:502,81,5.8,5.9,5.7,Calf injury,,Muscular_tendao
+"-0,333333333333333",Center Forward,28,Erro:502,81,7.4,N.A.,N.A.,Hamstring injury,,Muscular_tendao
+-1,Center Forward,28,Erro:502,81,6.7,6.2,6.3,Groin Surgery,,Muscular_tendao
+-3,Left Back,24,Erro:502,82,8,8,6.1,Muscle injury,,Muscular_tendao
+"0,666666666666667",Left Back,25,Erro:502,80,6.7,7.1,7.1,Coronavirus,,Doenca
+0,Left Back,25,Erro:502,80,6,6,6.4,Groin Surgery,,Muscular_tendao
+"0,666666666666667",Center Back,27,Erro:502,79,6.4,6,6.2,Groin Surgery,,Muscular_tendao
+"1,33333333333333",Center Back,27,Erro:502,79,5.8,5.8,5.9,Ankle sprain,,Tornozelo_pe
+"-0,666666666666667",Center Back,28,Erro:502,79,7.2,6.9,6.8,Shin injury,,Outras
+0,Center Back,30,Erro:502,76,7,7.1,7.1,Shin injury,,Outras
+"-2,33333333333333",Left winger,28,Erro:502,87,7.1,7.4,9,Broken arm,,Osso
+"0,666666666666667",Left winger,29,Erro:502,89,6.8,7.3,5.3,Hamstring injury,,Muscular_tendao
+-4,Left winger,30,Erro:502,89,7,6.1,5.8,Calf injury,,Muscular_tendao
+"0,166666666666667",Left winger,30,Erro:502,89,7.7,7.7,6.7,Hamstring injury,,Muscular_tendao
+"0,666666666666667",Left winger,31,Erro:502,88,5.9,6,7,Facial fracture,,Osso
+"-0,333333333333333",Defensive Midfielder,19,Erro:502,67,7.3,6.8,6.9,Hip injury,,Outras
+"-0,666666666666667",Defensive Midfielder,22,Erro:502,77,7.2,6.8,6.7,Inflammation bone,,Osso
+"4,66666666666667",Defensive Midfielder,24,Erro:502,80,6.5,6.5,6.4,Ankle sprain,,Tornozelo_pe
+1,Defensive Midfielder,23,Erro:502,78,6.2,7.6,5.9,Knock,,Pancada
+"0,666666666666667",Central Midfielder,30,Erro:502,81,6.2,6.9,6.2,Knee Surgery,,Joelho
+"-2,66666666666667",Right winger,29,Erro:502,81,6.7,6.8,8.3,Ankle sprain,,Tornozelo_pe
+"4,66666666666667",Right winger,30,Erro:502,81,6.8,6.9,5.6,Dead leg,,Pancada
+"0,333333333333334",Right winger,30,Erro:502,77,7.4,7.5,7.8,Calf injury,,Muscular_tendao
+1,Attacking Midfielder,23,Erro:502,86,6.5,6.9,6.2,Hamstring injury,,Muscular_tendao
+"0,666666666666667",Attacking Midfielder,24,Erro:502,83,6.9,5.9,5.8,Muscle injury,,Muscular_tendao
+"-2,66666666666667",Attacking Midfielder,25,Erro:502,80,7.5,7.8,5.6,Tendon irritation,,Muscular_tendao
+"1,33333333333333",Center Forward,26,Erro:502,89,5.5,5.9,6.8,Ill,,Doenca
+0,Center Forward,27,Erro:502,89,7.6,6.9,6.7,Torn thigh muscle,,Muscular_tendao
+0,Center Forward,27,Erro:502,89,6.9,6.5,7.6,Fitness,,Outras
+"0,333333333333333",Center Forward,28,Erro:502,89,7.2,8.3,5.3,Ankle sprain,,Tornozelo_pe
+"1,66666666666667",Center Forward,28,Erro:502,89,7.3,7.2,6.6,Ankle sprain,,Tornozelo_pe
+-3,Goalkeeper,32,Erro:502,88,8.4,6.6,6.3,Elbow injury,,Outras
+"-1,66666666666667",Goalkeeper,33,Erro:502,88,6.9,7.4,6.3,Groin Strain,,Muscular_tendao
+0,Goalkeeper,36,Erro:502,84,7.5,6.5,6.4,Knee injury,,Joelho
+"1,66666666666667",Goalkeeper,36,Erro:502,84,7.4,7.9,7.6,Thigh Problems,,Muscular_tendao
+"4,33333333333333",Center Back,23,Erro:502,84,6.5,6.7,6,Ankle sprain,,Tornozelo_pe
+-4,Center Back,25,Erro:502,81,7.8,8.3,7.5,Quarantine,,Doenca
+"0,666666666666667",Center Back,25,Erro:502,79,6.4,N.A.,N.A.,Hip injury,,Outras
+"-2,66666666666667",Center Back,26,Erro:502,79,6.1,6.8,6.7,Muscle injury,,Muscular_tendao
+"-0,333333333333333",Center Back,28,Erro:502,80,7.5,7.3,6.8,Thigh Problems,,Muscular_tendao
+"0,5",Center Back,28,Erro:502,80,6.5,N.A.,N.A.,Thigh Problems,,Muscular_tendao
+"-0,166666666666667",Left Back,21,Erro:502,74,8.2,6.7,N.A.,Muscle injury,,Muscular_tendao
+"-1,66666666666667",Left Back,22,Erro:502,75,5.9,6.4,7.4,Hamstring injury,,Muscular_tendao
+"1,33333333333333",Left Back,23,Erro:502,76,8.1,7.3,6.5,Hamstring injury,,Muscular_tendao
+2,Right Back,22,Erro:502,78,6.6,6.7,6.6,Unknown surgery,,Outras
+-1,Right Back,24,Erro:502,78,7.9,7.2,6.9,Knee injury,,Joelho
+1,Right Back,28,Erro:502,74,7.5,6.7,7.4,Coronavirus,,Doenca
+"0,5",Right Back,29,Erro:502,81,6.5,6.2,N.A.,Unknown injury,,Outras
+-1,Right Back,29,Erro:502,81,6.7,7.5,6.2,Muscle injury,,Muscular_tendao
+"-0,666666666666667",Right Back,29,Erro:502,81,7.4,5.7,6.5,Unknown injury,,Outras
+-3,Right Midfielder,30,Erro:502,77,6.8,7.3,5.8,Internal ligament tear,,Ligamento
+"0,833333333333333",Defensive Midfielder,28,Erro:502,84,6.4,6.7,7,Bruise,,Pancada
+"4,66666666666667",Defensive Midfielder,25,Erro:502,79,6.6,6.5,6.1,Ankle injury,,Tornozelo_pe
+-1,Defensive Midfielder,25,Erro:502,79,6.6,7,7,Head injury,,Pancada
+"0,333333333333333",Defensive Midfielder,25,Erro:502,79,7.7,6.9,6.8,Adductor pain,,Muscular_tendao
+"-1,33333333333333",Defensive Midfielder,26,Erro:502,82,6.9,6.9,N.A.,Cruciate ligament tear,,Ligamento
+2,Defensive Midfielder,26,Erro:502,82,5.8,6.2,6.3,Torn ankle ligaments,,Ligamento
+"-1,5",Central Midfielder ,22,Erro:502,81,7.6,7.6,N.A.,Hamstring injury,,Muscular_tendao
+"1,33333333333333",Central Midfielder ,22,Erro:502,81,5.7,6.4,6.1,Groin Strain,,Muscular_tendao
+3,Central Midfielder ,22,Erro:502,81,7.4,6,N.A.,Groin Strain,,Muscular_tendao
+0,Central Midfielder ,23,Erro:502,80,7.3,6.2,N.A.,Groin Strain,,Muscular_tendao
+"2,66666666666667",Central Midfielder ,23,Erro:502,80,6.1,6.1,6.3,Knock,,Pancada
+1,Central Midfielder ,23,Erro:502,80,6.2,6.9,6.6,Unknown injury,,Outras
+"1,66666666666667",Central Midfielder ,23,Erro:502,82,5.8,5.9,5.9,Hip injury,,Outras
+"-2,66666666666667",Central Midfielder ,24,Erro:502,82,6.8,6,7.5,Hamstring injury,,Muscular_tendao
+1,Central Midfielder ,24,Erro:502,82,6.1,6.9,N.A.,Muscle Strain,,Muscular_tendao
+"1,5",Central Midfielder ,24,Erro:502,82,6.3,6.8,N.A.,Hamstring injury,,Muscular_tendao
+"-4,33333333333333",Central Midfielder ,26,Erro:502,88,6.4,6.2,6.5,Quarantine,,Doenca
+"3,33333333333333",Central Midfielder ,25,Erro:502,88,6.9,7.3,5.8,Knee injury,,Joelho
+"-0,666666666666667",Central Midfielder ,27,Erro:502,81,N.A.,N.A.,N.A.,Hamstring injury,,Muscular_tendao
+"1,33333333333333",Central Midfielder ,27,Erro:502,81,7.4,7.1,6.7,Unknown injury,,Outras
+0,Central Midfielder ,28,Erro:502,80,6.1,5.8,8.2,Muscle Strain,,Muscular_tendao
+4,Central Midfielder ,28,Erro:502,80,6.8,6.7,7.2,Knee injury,,Joelho
+"-0,833333333333333",Left winger,20,Erro:502,66,5.9,6.3,6.9,Hamstring injury,,Muscular_tendao
+"1,33333333333333",Left winger,22,Erro:502,77,6.9,7.3,7,Inflammation of pubic bone,,Osso
+0,Left winger,22,Erro:502,66,6.8,7.2,7.4,Knock,,Pancada
+"-4,33333333333333",Goalkeeper,28,Inicio,82,7.9,7.5,6,head injury,7,Pancada
+"-4,33333333333333",Goalkeeper,28,Fim,82,6.6,5.7,7.5,knee surgery,49,Joelho
+"-1,66666666666667",Goalkeeper,29,Meio,82,6,7,9,Coronavirus,8,Doenca
+"-1,83333333333333",Center Back,27,Inicio,81,6,6.6,7,toe injury,13,Tornozelo_pe
+"1,33333333333333",Center Back,30,Fim,78,7.7,7.2,4.7,hamstring strain,125,Muscular_tendao
+"-0,333333333333333",Center Back,31,Meio,79,6.5,6.4,5.6,head injury,7,Pancada
+"-2,33333333333333",Center Back,32,Fim,79,7.2,6.5,8.1,hairline fracture,121,Osso
+"-0,333333333333333",Center Back,32,Inicio,74,6.8,5.1(S),7,calf injury,33,Muscular_tendao
+-4,Center Back,33,Meio,73,6.1,7.5,7.1,knee injury,65,Joelho
+"-3,66666666666667",Left Back,26,Meio,76,6,6.9,6.5,hamstring strain,19,Muscular_tendao
+"0,166666666666667",Left Back,26,Fim,76,5.9,5.6,7.4,hamstring strain,62,Muscular_tendao
+-1,Left Back,27,Meio,76,6.3,6.4,6.4,hamstring strain,47,Muscular_tendao
+"1,33333333333333",Left Back,28,Meio,76,7,5.5,6.6,Bruise on ankle,49,Tornozelo_pe
+"1,66666666666667",Right Back,30,Meio,75,7,6.1,4.7,knee injury,128,Joelho
+"2,66666666666667",Right Back,31,Fim,75,5.2,7,N.A.,ankle and knee injury,119,Joelho
+"-4,33333333333333",Right Back,34,Meio,72,5.2,6.1,6.7,knock,8,Pancada
+"2,66666666666667",Right Back,34,Meio,72,6.4,6.4,6.1,back injury,12,Outras
+"-0,333333333333333",Defensive Midfielder,30,Inicio,76,6.1,7.3,6.5,shoulder injury,26,Outras
+"1,33333333333333",Defensive Midfielder,31,Fim,77,6.2,6.4,5.5,broken foot,166,Osso
+"-4,33333333333333",Defensive Midfielder,30,Inicio,77,6.7,6.5,6.5,groin injury,19,Muscular_tendao
+"1,83333333333333",Defensive Midfielder,33,Fim,77,N.A.,7,6,broken ankle,258,Osso
+"-2,33333333333333",Central Midfielder,24,Meio,76,5.9,6.4,6.4,ankle injury,15,Tornozelo_pe
+"-1,66666666666667",Central Midfielder,26,Meio,75,5.8(S),6.3,6.8,Coronavirus,24,Doenca
+1,Left Midfielder,28,Inicio,74,6,N.A.,N.A.,chest injury,11,Outras
+"-4,33333333333333",Left Midfielder,28,Inicio,74,5.7(S),6.8,5.9(S),hamstring injury,10,Muscular_tendao
+"-1,66666666666667",Left Midfielder,28,Meio,74,6.9,5.6,6.6,hamstring injury,6,Muscular_tendao
+-1,Left Midfielder,29,Meio,74,6.1,5.9,5.7,calf injury,11,Muscular_tendao
+"0,333333333333333",Left winger,21,Meio,77,5.9,6.1,6,groin injury,20,Muscular_tendao
+"-1,66666666666667",Right winger,28,Inicio,77,6.9,5.9,5.6,calf strain,32,Muscular_tendao
+-3,Right winger,29,Inicio,77,5.9,N.A.,N.A.,hamstring strain,73,Muscular_tendao
+"1,33333333333333",Right winger,29,Meio,77,5.3(S),5.6(S),6.1(S),hamstring strain,181,Muscular_tendao
+-2,Right winger,30,Inicio,77,5.8,5.5,6.2,hamstring strain,8,Muscular_tendao
+"-0,666666666666667",Right winger,30,Inicio,77,6.1,N.A.,N.A.,hamstring strain,43,Muscular_tendao
+"-2,33333333333333",Right winger,30,Meio,77,5.6,7.4,7.3,groin strain,14,Muscular_tendao
+"-1,66666666666667",Right winger,31,Meio,73,6,6,8,appendectomy and calf injury,209,Muscular_tendao
+0,Right winger,32,Inicio,72,5.7,5.8,5.6,muscle injury,29,Muscular_tendao
+1,Right winger,32,Meio,74,6.6(S),5.4(S),5.9,ill,19,Doenca
+"-2,5",Center Forward,27,Inicio,78,7.2,5.7,6.6,hamstring injury,19,Muscular_tendao
+2,Center Forward,28,Meio,78,5.2,5.5,7,hamstring strain,12,Muscular_tendao
+-1,Center Forward,28,Fim,78,5.9(S),7.1,N.A.,calf injury,29,Muscular_tendao
+"0,333333333333333",Center Forward,29,Meio,78,5.8,7.1,5.2,hamstring strain,17,Muscular_tendao
+-2,Center Forward,29,Inicio,78,5.3,5.1,6.1,groin injury,8,Muscular_tendao
+"-4,33333333333333",Center Forward,30,Meio,78,5.4(S),5.3,6.1,groin injury,8,Muscular_tendao
+"1,33333333333333",Center Forward,30,Meio,78,5.5,5.1,5.2(S),groin surgery,271,Muscular_tendao
+"-0,666666666666667",Center Forward,31,Meio,75,7.1,5.7,5.4,bruise,9,Pancada
+"0,666666666666667",Center Forward,32,Inicio,73,6(S),6(S),5(S),groin injury,80,Muscular_tendao
+"-1,66666666666667",Center Forward,30,Meio,76,5.9(S),5.9(S),5.1,ill,13,Doenca
+"2,33333333333333",Center Forward,30,Fim,76,7.3,5.1,6.7,hamstring strain,8,Muscular_tendao
+"0,5",Center Forward,31,Inicio,75,6,N.A.,N.A.,ankle injury,25,Tornozelo_pe
+1,Center Forward,32,Meio,75,6(S),5.1,5.6,knee injury,14,Joelho
+"-1,66666666666667",Center Forward,33,Fim,74,5.5,6.1,5.6,hamstring injury,100,Muscular_tendao
+"2,33333333333333",Center Forward,27,Inicio,73,5.7(S),6(S),N.A.,hip injury,30,Outras
+"0,333333333333333",Center Forward,28,Meio,74,6(S),6(S),5.3,back injury,-342,Outras
+"2,83333333333333",Center Forward,28,Meio,74,7,5.5,5.2,hamstring injury,8,Muscular_tendao
+"0,333333333333333",Center Forward,29,Meio,73,5.5,6,6,groin surgery and elbow injury,25,Muscular_tendao
+"0,666666666666667",Central Midfielder,31,Inicio,74,5.6,6,6.8,hamstring injury,24,Muscular_tendao
+2,Central Midfielder,31,Meio,74,5.4,N.A.,N.A.,knock,4,Pancada
+"-0,333333333333333",Right Back,26,Meio,75,6(S),N.A.,N.A.,infection,32,Doenca
+"-0,666666666666667",Left winger,25,Meio,75,5.5,5.5,6.9,hamstring injury,27,Muscular_tendao
+1,Left winger,25,Fim,75,6,5.6,6,knee problems,13,Joelho
+"-1,66666666666667",Center Back,23,Inicio,75,6.9,6.1,7,meniscus injury,26,Joelho
+"-0,333333333333333",Center Back,23,Meio,75,5.9,6.4,7,knee injury,,Joelho
+-1,Right winger,19,Meio,68,6,7.2,6,knee injury,194,Joelho
+"1,5",Right winger,29,Inicio,75,5.6(S),5.7,N.A.,unknown injur,35,Outras
+"2,33333333333333",Center Forward,23,Inicio,69,5.9,5.7,6.9,depression,31,Doenca
+"-2,33333333333333",Center Back,21,Meio,72,6.8,6.3,N.A.,muscle injury,228,Muscular_tendao
+"1,66666666666667",Right Back,24,Inicio,71,5.5,N.A.,N.A.,knee injury,26,Joelho
+0,Goalkeeper,26,Meio,80,5.9,6.5,6.3,chest injury,21,Outras
+"-4,33333333333333",Goalkeeper,27,Inicio,81,7.3,7,7,shoulder injury,14,Outras
+1,Goalkeeper,28,Inicio,82,9,6,7.3,thigh problems,18,Muscular_tendao
+"-0,666666666666667",Center Back,27,Meio,79,7.6,6.2,6(S),neck injury,3,Outras
+"-0,666666666666667",Center Back,25,Inicio,79,7.1,6.6,6.2,knee injury,13,Joelho
+4,Center Back,25,Meio,79,5.8,6.1,5.8,bruise,8,Pancada
+"-0,166666666666667",Center Back,25,Fim,79,6.5,6.3,8.6,muscle injury,,Muscular_tendao
+1,Center Back,25,Fim,79,6.2,6.8,6.6,muscle injury,61,Muscular_tendao
+"2,33333333333333",Center Back,26,Meio,79,5.8,6.5,6.4,calf injury,22,Muscular_tendao
+-1,Center Back,27,Inicio,79,6.8,7,6,thigh problems,39,Muscular_tendao
+"1,33333333333333",Center Back,27,Meio,79,5.9,7,6,hamstring injury,62,Muscular_tendao
+"0,666666666666667",Center Back,27,Inicio,76,5.8,N.A.,N.A.,ankle injury,86,Tornozelo_pe
+"-1,83333333333333",Center Back,22,Fim,77,5.8,6.7,8.1,calf injury,8,Muscular_tendao
+"0,666666666666667",Center Back,24,Inicio,75,6.7,6.5,6,knee injury,50,Joelho
+"-1,5",Left Back,26,Meio,83,7.4,6.6,7.7,calf injury,27,Muscular_tendao
+1,Left Back,27,Inicio,84,9,6.4,5.7,ankle injury,46,Tornozelo_pe
+"0,666666666666667",Right Back,27,Meio,78,7.9,5.6,7.6,unknown injury,3,Outras
+"2,16666666666667",Right Back,27,Fim,78,5.9,5.9(S),6.2,foot injury,10,Tornozelo_pe
+"1,33333333333333",Right Back,30,Inicio,78,5.9(S),N.A.,N.A.,hamstring injury,20,Muscular_tendao
+"-4,66666666666667",Right Back,30,Fim,78,5.7,6.6,5.6(S),hamstring strain,104,Muscular_tendao
+"-1,66666666666667",Right Back,31,Inicio,79,5.8,6.8,7.4,muscle injury,62,Muscular_tendao
+"-1,66666666666667",Right Back,31,Inicio,78,6.3,6.4,6,hamstring injury,28,Muscular_tendao
+1,Right Back,33,Fim,75,6.3,5.8,6.2,knee injury,206,Joelho
+"-1,5",Defensive Midfielder,24,Inicio,79,6.7,6.3(S),N.A.,"hamstring injury, archilles tendon rupture and inner ligament injury",682,Ligamento
+1,Defensive Midfielder,29,Meio,76,6.3,5.9(S),5(S),calf strain,27,Muscular_tendao
+-2,Defensive Midfielder,29,Meio,76,5.7,7.6,5.8(S),knee injury,180,Joelho
+-2,Central Midfielder,26,Inicio,80,7.3,6.4,6.4,bruised ribs,32,Pancada
+-1,Central Midfielder,26,Inicio,80,7,6.2,6,ankle injury,109,Tornozelo_pe
+"0,333333333333333",Central Midfielder,27,Inicio,79,6.7,7.1,6.4,bruise,19,Pancada
+0,Central Midfielder,28,Inicio,76,5(S),7(S),6(S),calf injury,75,Muscular_tendao
+1,Central Midfielder,21,Meio,75,6.3,6.7,6.7,ill,5,Doenca
+-3,Central Midfielder,22,Inicio,75,7,N.A.,N.A.,bruise,7,Pancada
+"-1,33333333333333",Central Midfielder,23,Inicio,75,6.2(S),6,5.7(S),knee injury,223,Joelho
+"3,66666666666667",Central Midfielder,28,Inicio,77,6.5,6.5,6.4,muscle injury,18,Muscular_tendao
+"-0,166666666666667",Central Midfielder,28,Inicio,77,7,6.2(S),N.A.,muscle injury,46,Muscular_tendao
+"0,666666666666667",Central Midfielder,29,Fim,77,6.4,5.6,6.9,calf injury,113,Muscular_tendao
+"-0,166666666666667",Central Midfielder,29,Inicio,75,5.9(S),6.2(S),7,bruise,25,Pancada
+"1,83333333333333",Central Midfielder,30,Meio,75,5.8(S),5.6,N.A.,hamstring injury,59,Muscular_tendao
+"0,666666666666667",Attacking Midfielder,30,Meio,80,6.6,6.5,6.3,knock,12,Pancada
+"-0,333333333333333",Attacking Midfielder,30,Meio,80,6.6,6.3,6.9,groin injury,19,Muscular_tendao
+"-0,333333333333333",Left winger,23,Meio,77,5.6,6.3,5.8,hamstring injury,35,Muscular_tendao
+"-0,333333333333333",Left winger,25,Inicio,76,7,6,6.3(S),calf injury,12,Muscular_tendao
+"1,5",Left winger,27,Inicio,76,5.2,6.4,N.A.,hamstring injury,26,Muscular_tendao
+-1,Left winger,27,Inicio,78,5.8,5.8(S),6(S),ill,8,Doenca
+"-0,833333333333333",Left winger,27,Inicio,78,7.2,5.4,N.A.,knee injury,34,Joelho
+"-0,333333333333333",Left winger,27,Meio,78,6.4(S),6.2,6.4,knee injury,3,Joelho
+"0,5",Left winger,21,Meio,74,6.4,6(S),5.6(S),ill,6,Doenca
+1,Right winger,30,Inicio,76,6.1(S),6(S),5,head injury,39,Pancada
+"-0,666666666666667",Right winger,30,Inicio,76,5.9,5.7,5.2,knock,10,Pancada
+-2,Right winger,30,Meio,76,5.5,N.A.,N.A.,calf strain,17,Muscular_tendao
+-2,Right winger,30,Meio,76,6.2,6.6,6.8,knee injury,19,Joelho
+"2,66666666666667",Right winger,31,Fim,76,5.4,5.4(S),N.A.,abdominal muscle strain,30,Muscular_tendao
+"-0,333333333333333",Center Forward,22,Meio,81,8.3,6.7,7.5,knee injury,18,Joelho
+"-0,333333333333333",Center Forward,23,Meio,81,5.9,7.1,6.8,head injury,26,Pancada
+"-1,66666666666667",Center Forward,24,Inicio,81,5.7,5.7,7,knee injury,39,Joelho
+"0,833333333333333",Center Forward,24,Meio,81,4.9,7.8,6,calf injury,31,Muscular_tendao
+2,Center Forward,20,Fim,75,5.3(S),5.4(S),5.5(S),knee injury,8,Joelho
+"0,666666666666667",Center Forward,23,Meio,80,6,6,6.4,muscle injury,24,Muscular_tendao
+"-1,66666666666667",Center Forward,23,Meio,80,6.3,7.5,7.2,hamstring injury,8,Muscular_tendao
+-1,Center Forward,24,Inicio,81,6.6,7,7.2,broken toe,125,Osso
+"-0,666666666666667",Center Forward,25,Fim,81,5,5.5,6,hamstring injury,18,Muscular_tendao
+"-2,33333333333333",Center Forward,25,Inicio,78,7.2,5.6,6.8,hamstring injury,53,Muscular_tendao
+"-0,333333333333333",Center Forward,25,Meio,78,6.6,5.7,5.8,hamstring injury,75,Muscular_tendao
+"0,666666666666667",Center Forward,26,Fim,78,7,5.2,6.3,hamstring injury,31,Muscular_tendao
+"-0,666666666666667",Center Forward,27,Fim,77,7.3,6.1,7.5,ill,6,Doenca
+"2,5",Center Forward,28,Inicio,77,5.1,N.A.,N.A.,groin injury,9,Muscular_tendao
+-1,Center Forward,28,Fim,77,5.6(S),N.A.,N.A.,cruciate ligament surgery,238,Ligamento
+0,Center Back,22,Inicio,75,5.8,5.9(S),N.A.,hamstring injury,11,Muscular_tendao
+"0,666666666666667",Center Back,24,Inicio,76,6,N.A.,N.A.,broken fibula,91,Osso
+2,Center Back,25,Fim,76,5.2,6,5.6,adductor injury,30,Muscular_tendao
+"0,333333333333333",Defensive Midfielder,29,Inicio,83,6.3,7.2,7.2,groin injury,14,Muscular_tendao
+"-0,666666666666667",Defensive Midfielder,29,Meio,83,6,7.1,6.5,muscle injury,58,Muscular_tendao
+"-2,33333333333333",Central Midfielder,28,Fim,79,6.5,6.7,6.3,foot injury,64,Tornozelo_pe
+"-1,66666666666667",Central Midfielder,28,Inicio,79,6.8,7.6,8,stress reaction of the bone,42,Osso
+1,Central Midfielder,29,Inicio,77,5.5,6.7,N.A.,hamstring injury,51,Muscular_tendao
+"-4,33333333333333",Central Midfielder,30,Meio,77,6.2,7,7.3,thigh problems,26,Muscular_tendao
+-1,Attacking Midfielder,29,Inicio,82,6.2,7.4,10,groin injury,11,Muscular_tendao
+"1,33333333333333",Attacking Midfielder,29,Meio,82,7.3,6.9,7.3,calf strain,25,Muscular_tendao
+"0,666666666666667",Attacking Midfielder,29,Meio,82,7.2,5.8(S),6.2,calf injury,38,Muscular_tendao
+"-0,666666666666667",Attacking Midfielder,29,Fim,82,6.3,6.5,7.3,calf injury,13,Muscular_tendao
+"1,5",Left Back,22,Meio,76,5,N.A.,N.A.,Coronavirus,9,Doenca
+-1,Left Back,22,Fim,76,6.8,6,5.6,muscle fatigue,23,Muscular_tendao
+0,Left Back,24,Meio,75,6.8,6.5,6.7,groin injury,7,Muscular_tendao
+"0,333333333333333",Left Back,24,Fim,75,5.7,5.9,5.9,cold,4,Doenca
+"1,33333333333333",Left Back,24,Fim,75,6,6.9,4.9,ankle injury,40,Tornozelo_pe
+-1,Right Back,19,Inicio,69,7,6.2,7,ankle injury,35,Tornozelo_pe
+"7,66666666666667",Right Back,20,Fim,72,5.3(S),N.A.,N.A.,hamstring injury,57,Muscular_tendao
+2,Central Midfielder,24,Fim,80,6.3,6.1,5.6,thigh problems,46,Muscular_tendao
+"0,833333333333333",Right winger,30,Meio,77,6.7,5.5,5.3,broken foot,23,Osso
+"-0,333333333333333",Defensive Midfielder,21,Fim,75,5.9,7,6.4,leg injury,10,Outras
+"0,333333333333333",Defensive Midfielder,22,Inicio,77,6.1,6.9,6.2,calf injury,27,Muscular_tendao
+"-0,333333333333333",Defensive Midfielder,21,Inicio,72,6,6.3,6.2,back injury,89,Outras
+"-2,33333333333333",Left Back,38,Meio,75,6.1,6.7,6.8,muscle injury,45,Muscular_tendao
+"-2,33333333333333",Center Forward,25,Inicio,81,6(S),5.8(S),6(S),knee injury,5,Joelho
