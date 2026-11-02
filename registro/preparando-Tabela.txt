@@ -180,3 +180,36 @@ abdominal muscle strain	Muscular_tendao
 broken toe	Osso
 broken fibula	Osso
 stress reaction of the bone	Osso
+
+
+
+
+
+
+
+
+
+
+
+
+Inglês	Português
+Attacking Midfielder	Meia-atacante
+Center Back	Zagueiro
+Center Forward	Centroavante
+Central Midfielder	Meio-campista central
+Defensive Midfielder	Volante (meio-campista defensivo)
+Goalkeeper	Goleiro
+Left Back	Lateral-esquerdo
+Left Midfielder	Meio-campista esquerdo
+Left winger	Ponta-esquerda
+Right Back	Lateral-direito
+Right Midfielder	Meio-campista direito
+Right winger	Ponta-direita
+
+
+
+NULOS = ''
+
+
+
+
