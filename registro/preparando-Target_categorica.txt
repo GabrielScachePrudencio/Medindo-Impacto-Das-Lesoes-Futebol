@@ -1,0 +1,7 @@
+Impact_gd Impact_gd_categ
+
+> 1	muito bom
+> 0 e ≤ 1	bom
+= 0	neutro
+< 0 e ≥ -1	ruim
+< -1	muito ruim
