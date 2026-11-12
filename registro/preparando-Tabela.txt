@@ -34,8 +34,8 @@ Colunas a apagar após criar o target:
 
 
 Colunas inúteis para o nosso projeto:
-
-Todas as colunas after_injury (12 colunas: Result, Opposition, GD e Player_rating dos 3 jogos), porque esses jogos acontecem depois e não entram na previsão
+ENTRARAM NO DATABASE AS COLUNAS QUE CONTEM O RESULTADO DOS JOGOS 
+Todas as colunas after_injury (6 colunas: Opposition, GD e Player_rating dos 3 jogos), porque esses jogos acontecem depois e não entram na previsão
 Match1/2/3_before_injury_Opposition
 Match1/2/3_missed_match_Opposition
 - Team Name
@@ -58,7 +58,14 @@ Organizando as colunas que permanecem na tabela final.
 - Injury 
 - Match1_before_injury_Player_rating,
 - Match2_before_injury_Player_rating,
-- Match3_before_injury_Player_rating
+- Match3_before_injury_Player_rating,
+Match1_before_injury_Result
+Match2_before_injury_Result
+Match3_before_injury_Result
+Match1_missed_match_Result
+Match2_missed_match_Result
+Match3_missed_match_Result
+
 
 - Nova coluna: Fase_temporada, calculada a partir de Date of Injury. A Premier League vai de agosto a maio, então uma divisão simples por mês é:
 Fase	Meses
